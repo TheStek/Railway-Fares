@@ -1,0 +1,9 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,10,USE_NLC,4,45-48,The NLC code to be used to find an alternative
+,11,ADULT_NODIS_FLAG,1,49-49,Indicates whether the adult add on should be
+,12,ADULT_ADD_ON_AMOUNT,8,50-57,"The add-on amount, in pence, to be added to"
+,13,ADULT_REBOOK_FLAG,1,58-58,"Values are ‘N’, ‘Y’ or ‘S’."
+,14,CHILD_NODIS_FLAG,1,59-59,Indicates whether the child add on should be
+,15,CHILD_ADD_ON_AMOUNT,8,60-67,"The add-on amount, in pence, to be added to"
+,16,CHILD_REBOOK_FLAG,1,68-68,"Values are ‘N’, ‘Y’ or ‘S’."

@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘R’.
+Y,3,RULE_NUMBER,3,3-5,Rule number.
+Y,4,END_DATE,8,6-13,Last date for which this record can be used. Format
+,5,START_DATE,8,14-21,First date for which this record can be used. Format
+,6,QUOTE_DATE,8,22-29,First date on which this record can be queried.
+,7,TRAIN_UID,7,30-36,Train identifier (actually 6 alphanumeric characters
+,8,TRAIN_UID_DESC,39,37-75,Train description.
+,9,FARE_CLASS,1,76-76,"Single character class (values ‘1’, ‘2’, ‘9’ or ‘*’)."
+,10,QUOTA,1,77-77,"Values ‘Y’, ‘N’ or ‘*’ to indicate that the rule applies"
+,11,WEEKEND_FIRST,1,78-78,"Values ‘Y’, ‘N’ or ‘*’ to indicate that the rule applies"
+,12,SILVER_STANDARD,1,79-79,"Values ‘Y’, ‘N’ or ‘*’ to indicate that the rule applies"
+,13,RAILCARD,1,80-80,"Values ‘Y’, ‘N’ or ‘*’ to indicate that the rule applies"
+,14,CATERING_CODE,1,81-81,"Catering code, space or ‘*’.  These values are used"
+,15,SLEEPER,1,82-82,"Values ‘F’, ‘S’, ‘B’ or space or ‘*’.  Indicates whether"

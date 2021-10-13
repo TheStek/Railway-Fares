@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,TICKET_CODE,3,1-3,Ticket Code
+Y,2,RESTRICTION_CODE,2,4-5,Restriction code or spaces.
+Y,3,RESTRICTION_FLAG,1,6-6,"Values are ‘0’, ‘1’ or ‘2’."
+Y,4,DIRECTION,1,7-7,"‘O’, ‘R’ or ‘B’, to indicate that the TOC Specific Ticket"
+Y,5,TOC_ID,2,8-9,TOC code or spaces.  Spaces indicate that the TOC
+Y,6,TOC_TYPE,1,10-10,‘M’ indicates a Main TOC.  This ticket can be used only
+Y,7,END_DATE,8,11-18,Last date for which this record can be used.  Format is
+,8,START_DATE,8,19-26,First date for which this record can be used.  Format is
+,9,SLEEPER_MKR,1,27-27,‘Y’ or ‘N’.  Indicates whether sleeper accommodation is
+,10,INC_EXC_STOCK,1,28-28,‘I’ or ‘E’.
+,11,STOCK_LIST,40,29-68,A comma separated list of stock types.

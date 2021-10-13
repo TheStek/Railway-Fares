@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,17,UTS_ZONE_3,1,248-248,Values ‘Y’ or ‘N’ to indicate whether a fare with this
+,18,UTS_ZONE_4,1,249-249,Values ‘Y’ or ‘N’ to indicate whether a fare with this
+,19,UTS_ZONE_5,1,250-250,Values ‘Y’ or ‘N’ to indicate whether a fare with this
+,20,UTS_ZONE_6,1,251-251,Values ‘Y’ or ‘N’ to indicate whether a fare with this
+,21,UTS_NORTH,3,252-254,Contains a code used in LUL magnetic stripe encoding.
+,22,UTS_EAST,3,255-257,Contains a code used in LUL magnetic stripe encoding.
+,23,UTS_SOUTH,3,258-260,Contains a code used in LUL magnetic stripe encoding.
+,24,UTS_WEST,3,261-263,Contains a code used in LUL magnetic stripe encoding.

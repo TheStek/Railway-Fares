@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether"
+Y,2,ORIGIN_CODE,4,2-5,"A code representing the flow origin, either NLC,"
+Y,3,DESTINATION_CODE,4,6-9,"A code representing the flow destination, either"
+Y,4,ROUTE_CODE,5,10-14,Contains either a 5-digit route code or ‘*****’ (5
+Y,5,RAILCARD_CODE,3,15-17,"Contains a railcard code, or 3 spaces or ‘***’ (3"
+Y,6,TICKET_CODE,3,18-20,"Contains a ticket code, ‘***’ (3 asterisks)."
+Y,7,END_DATE,8,21-28,Last date for which this record can be used.
+,8,START_DATE,8,29-36,First date for which this record can be used.
+,9,QUOTE_DATE,8,37-44,First date on which this record is available for

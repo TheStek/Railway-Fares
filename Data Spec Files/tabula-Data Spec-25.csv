@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ’changes only’ update file, indicates"
+Y,2,RECORD_TYPE,1,2-2,Contains ’O’.
+Y,3,SUPPLEMENT_CODE,3,3-5,A unique supplement code.
+Y,4,END_DATE,8,6-13,Last date for which this record can be used.
+Y,5,OVERRIDDEN_SUPPLEMENT,3,14-16,Supplement code.  A supplement whose cost

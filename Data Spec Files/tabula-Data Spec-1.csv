@@ -1,0 +1,4 @@
+0,1,2,3,4
+13.0,NS_DISC_IND,1.0,41-41,Indicates whether non-standard discounts apply to
+14.0,PUBLICATON_IND,1.0,42-42,Values ‘Y’ or ‘N’ to indicate whether or not the fares
+15.0,FLOW_ID,7.0,43-49,Uniquely identifies this flow.

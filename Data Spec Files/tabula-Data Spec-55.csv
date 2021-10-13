@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘A’.
+Y,3,UIC_CODE,7,3-9,UIC code of station location
+Y,4,END_DATE,8,10-17,Last date for which this record can be used. Format is
+Y,5,ASSOC_UIC_CODE,7,18-24,UIC Code of associated station.
+,6,ASSOC_CRS_CODE,3,25-27,CRS code of associated station.

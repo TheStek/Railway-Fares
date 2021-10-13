@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘HC’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and end
+Y,4,RESTRICTION_CODE,2,5-6,Alphanumeric restriction code.
+Y,5,ALLOWED_CHANGE,3,7-9,CRS code of location at which the passenger is

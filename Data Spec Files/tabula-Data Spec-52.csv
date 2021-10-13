@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘L’.
+Y,3,UIC_CODE,7,3-9,A unique code which identifies this location.
+Y,4,END_DATE,8,10-17,Last date for which this record can be used. Format
+,5,START_DATE,8,18-25,First date for which this record can be used. Format
+,6,QUOTE_DATE,8,26-33,First date on which this record can be queried.
+,7,ADMIN_AREA_CODE,3,34-36,Administrative area code (e.g. ‘70 ‘ = Britain).
+,8,NLC_CODE,4,37-40,"National location code, for British locations only.  No"
+,9,DESCRIPTION,16,41-56,Location description.
+,10,CRS_CODE,3,57-59,"Where present, gives the location code as used by"
+,11,RESV_CODE,5,60-64,The international reservation code.
+,12,ERS_COUNTRY,2,65-66,Along with the ERS Code this forms a reference to
+,13,ERS_CODE,3,67-69,Along with the ERS Country this forms a reference
+,14,FARE_GROUP,6,70-75,LOC-FARE-GROUP is always populated for BR
+,15,COUNTY,2,76-77,"Used to decide if a location is in Scotland, England"
+,16,PTE_CODE,2,78-79,Code for the transport authority associated with the
+,17,ZONE_NO,4,80-83,NLC code that matches a Zone location where the
+,18,ZONE_IND,2,84-85,"The Zone number.  Permitted values are 1, 2, 3, 4,"

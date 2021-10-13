@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘TP’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and end
+Y,4,RESTRICTION_CODE,2,5-6,Alphanumeric restriction code.
+Y,5,SEQUENCE_NO,4,7-10,Numeric sequence number.  Several time restrictions
+Y,6,OUT_RET,1,11-11,"‘O’ or ‘R’, to indicate whether the restriction applies to"
+Y,7,BARRED_CLASS,1,12-12,Indicates which classes are barred to users of privilege
+Y,8,BARRED_TICKETS,1,13-13,Indicates which tickets are barred to users of privilege
+Y,9,BARRED_SEASONS,1,14-14,Indicates whether season tickets are barred to users of
+Y,10,BARRED_FIRST,1,15-15,Indicates whether First can travel as standard when
+Y,11,FROM_LOCATION,3,16-18,CRS code of the location from which the privilege
+Y,12,TO_LOCATION,3,19-21,CRS code of the location to which the privilege

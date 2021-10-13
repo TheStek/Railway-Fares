@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘M’.
+Y,3,RULE_NUMBER,3,3-5,Rule number.
+Y,4,END_DATE,8,6-13,Last date for which this record can be used. Format is
+Y,5,SUPPLEMENT_CODE,3,14-16,The supplement code for the supplement included in the
+,6,OM_FLAG,1,17-17,Values are ‘O’ or ‘M’ to indicate whether the supplement

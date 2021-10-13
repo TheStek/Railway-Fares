@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘SQ’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and end
+Y,4,RESTRICTION_CODE,2,5-6,Alphanumeric restriction code.
+Y,5,TRAIN_NO,6,7-12,Train UID.
+Y,6,OUT_RET,1,13-13,"‘O’ or ‘R’, to indicate whether the restriction applies to"
+Y,7,LOCATION,3,14-16,CRS code indicating a location at which the fare is
+Y,8,QUOTA_IND,1,17-17,Note: this field is obsolete and will be set to a space for
+Y,9,ARR_DEP,1,18-18,"‘A’, ‘D’ or ‘B’ to indicate whether the restriction applies"

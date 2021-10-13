@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1.0,UPDATE-MARKER,1.0,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2.0,RECORD_TYPE,1.0,2-2,Contains ‘F’.
+Y,3.0,ORIGIN_CODE,4.0,3-6,"A code representing the flow origin (4 digit NLC code,"
+Y,4.0,DESTINATION_CODE,4.0,7-10,A code representing the flow destination (4 digit NLC
+Y,5.0,ROUTE_CODE,5.0,11-15,Route code.
+Y,6.0,STATUS_CODE,3.0,16-18,3-digit status code.  This value is used to indicate the
+Y,7.0,USAGE_CODE,1.0,19-19,Permitted values are ‘G’ or ‘A’.
+Y,8.0,DIRECTION,1.0,20-20,Values are either ‘S’ to indicate that the fare applies
+Y,9.0,END_DATE,8.0,21-28,Last date for which this record can be used. Format is
+,10.0,START_DATE,8.0,29-36,First date for which this record can be used. Format
+,11.0,TOC,3.0,37-39,The Fare TOC code of the TOC setting the fares on
+,12.0,CROSS_LONDON_IND,1.0,40-40,Values are

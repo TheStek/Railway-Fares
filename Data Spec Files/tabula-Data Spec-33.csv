@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘RD’.
+Y,3,CF_MKR,1,4-4,Value = ‘C’ or ‘F’ indicating Current or Future.  All
+,4,START_DATE,8,5-12,First date for which records with the matching
+,5,END_DATE,8,13-20,Last date for which records with the matching

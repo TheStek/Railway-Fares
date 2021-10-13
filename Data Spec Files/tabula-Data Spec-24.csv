@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ’changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ’S’.
+Y,3,SUPPLEMENT_COD,3,3-5,Supplement code.
+Y,4,END_DATE,8,6-13,Last date for which this record can be used. Format is
+,5,START_DATE,8,14-21,First date for which this record can be used. Format is
+,6,QUOTE_DATE,8,22-29,First date on which this record can be queried. Format is
+,7,DESCRIPTION,20,30-49,Supplement description.
+,8,SHORT_DESC,12,50-61,Abbreviated description of supplement.
+,9,SUPPL_TYPE,3,62-64,3-character supplement type.
+,10,PRICE,5,65-69,Supplement price in pence.
+,11,CPF_TICKET_TYPE,5,70-74,Note: with the introduction of PMS this field is
+,12,MIN_GROUP_SIZE,1,75-75,The minimum group size for this supplement.
+,13,MAX_GROUP_SIZE,1,76-76,The maximum group size for this supplement.
+,14,PER_LEG_OR_DIR,1,77-77,Values are ’L’ or ’D’.  If this supplement overrides the
+,15,CLASS_TYPE,1,78-78,Supplement class.
+,16,CAPRI_CODE,3,79-81,CAPRI code. Note that if sundry code is supplied then
+,17,SEP_TKT_IND,1,82-82,Values ‘Y’ or ‘N’ to indicate whether a separate ticket
+,18,RESVN_TYPE,2,83-84,"Permitted values are ‘00’ and ‘01’, used when making"
+,19,SUNDRY_CODE,5,85-89,Accounting code for supplement recognised by

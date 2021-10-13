@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,CLASS,1,1-1,Class indicator
+Y,2,END_DATE,8,2-9,Last date for which this record can be used. Format is
+,3,START_DATE,8,10-17,The First date for which this record can be used. Format is
+,4,ATB_DESC,8,18-25,Class description to be printed on ATB (airline) size tickets.
+,5,CC_DESC,3,26-28,Class description to be printed on credit card size tickets.

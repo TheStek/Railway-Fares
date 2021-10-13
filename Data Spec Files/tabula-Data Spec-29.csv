@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,RECORD_TYPE,1,1-1,Contains ‘S’.
+Y,2,STATUS_CODE,3,2-4,3-character status code.
+Y,3,END_DATE,8,5-12,Last date for which this record can be used.
+,4,START_DATE,8,13-20,First date for which this record can be used.
+,5,ATB_DESC,5,21-25,Description to be printed on ATB size (airline)
+,6,CC_DESC,5,26-30,Description to be printed on credit card size
+,7,UTS_CODE,1,31-31,"UTS code, used in LUL magnetic stripe"
+,8,FIRST_SINGLE_MAX_FLAT,8,32-39,Contains either the maximum fare to be
+,9,FIRST_RETURN_MAX_FLAT,8,40-47,Contains either the maximum fare to be
+,10,STD_SINGLE_MAX_FLAT,8,48-55,Contains either the maximum fare to be

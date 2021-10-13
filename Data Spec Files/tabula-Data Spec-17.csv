@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,RECORD_TYPE,1,1-1,Contains ‘P’.
+Y,2,ROVER_CODE,3,2-4,3-character rail rover code.
+Y,3,END_DATE,8,5-12,Last date for which this record can be used. Format is
+Y,4,RAILCARD_CODE,3,13-15,Railcard code.  The fare in this record is that which
+Y,5,ROVER_CLASS,1,16-16,The class of the rail rover ticket.
+,6,ADULT_FARE,8,17-24,The adult fare for the rail rover with the supplied
+,7,CHILD_FARE,8,25-32,The child fare for the rail rover with the supplied
+,8,RESTRICTION_CODE,2,33-34,2-character restriction code.  May be spaces.

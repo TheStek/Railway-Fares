@@ -1,0 +1,6 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘T’.
+Y,3,TEXT_CODE,3,3-5,A unique code to identify a particular line of text.
+,4,FREE_TEXT,72,6-77,The free text line to print on a supplement voucher.

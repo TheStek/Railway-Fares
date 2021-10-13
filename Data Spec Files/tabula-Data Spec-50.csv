@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘EC’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and end
+Y,4,EXCEPTION_CODE,1,5-5,Exception code.
+,5,DESCRIPTION,50,6-55,Exception description.

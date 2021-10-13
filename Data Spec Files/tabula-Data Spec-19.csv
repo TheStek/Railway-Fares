@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,RECORD_TYPE,1,1-1,Contains ‘S’.
+Y,2,PACKAGE_CODE,3,2-4,3-character package code.
+Y,3,END_DATE,8,5-12,Last date for which this record can be used. Format is
+Y,4,SUPPLEMENT_CODE,3,13-15,Supplement code identifying a supplement contained
+,5,DIRECTION,1,16-16,"Valid values are ‘O’, ‘R’, ‘B’ or ‘E’ (Outward, Return,"
+,6,PACK_NUMBER,3,17-19,Indicates the number of supplements ‘per package’
+,7,ORIGIN_FACILITY,1,20-20,Note: with the introduction of PMS this field is
+,8,DEST_FACILITY,1,21-21,Note: with the introduction of PMS this field is

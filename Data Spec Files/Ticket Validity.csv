@@ -1,0 +1,16 @@
+Key,Field,Field Name,Length,Position,Description
+Y,1,VALIDITY_CODE,2,01-Feb,A 2-digit validity code.
+Y,2,END_DATE,8,03-Oct,Last date for which this record can be used. Format
+,3,START_DATE,8,Nov-18,The First date for which this record can be used.
+,4,DESCRIPTION,20,19-38,Textual description of the Validity.
+,5,OUT_DAYS,2,39-40,Numeric value 0-30.  Indicates the number of days
+,6,OUT_MONTHS,2,41-42,Numeric value 0-12.  Indicates the number of months
+,7,RET_DAYS,2,43-44,Numeric value 0-30.  Indicates the number of days
+,8,RET_MONTHS,2,45-46,Numeric value 0-12.  Indicates the number of months
+,9,RET_AFTER_DAYS,2,47-48,Numeric value 0-30.  Indicates the number of days
+,10,RET_AFTER_MONTHS,2,49-50,Numeric value 0-12. Indicates the number of months
+,11,RET_AFTER_DAY,2,51-52,"Permitted values are ‘MO’, ‘TU’, ‘WE’, ‘TH’, ‘FR’,"
+,12,BREAK_OUT,1,53-53,Indicates whether a break of journey is permitted on
+,13,BREAK_RTN,1,54-54,Indicates whether a break of journey is permitted on
+,14,OUT_DESCRIPTION,14,55-68,"Short description of outward validity, printed on the"
+,15,RTN_DESCRIPTION,14,69-82,"Short description of return validity, printed on the"

@@ -1,0 +1,9 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘HA’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and
+Y,4,RESTRICTION_CODE,2,5-6,Alphanumeric restriction code.
+Y,5,ADDITIONAL_RESTRICTION,2,7-8,An additional restriction code which may also
+Y,6,ORIGIN,3,9-11,CRS code of journey origin to be matched to
+Y,7,DESTINATION,3,12-14,CRS code of journey destination to be matched

@@ -1,0 +1,3 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,FILE_NAME,12,1-12,"Fares Data feed file name, as shown in Section 4."

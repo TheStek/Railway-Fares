@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,RULE_NO,2,1-2,Rounding rule number.  Values are alphanumeric.
+Y,2,END_DATE,8,3-10,Last date for which this record can be used. Format is
+Y,3,RULE_INDEX,2,11-12,Sequence number within the rounding rule of the
+,4,START_DATE,8,13-20,First date for which this record can be used. Format is
+,5,MAX_AMOUNT,8,21-28,The maximum fare in pence to which the round amount
+,6,ROUND_AMOUNT,8,29-36,"The amount, in pence, by which the fare is to be rounded,"

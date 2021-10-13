@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘RR’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and end
+Y,4,RAILCARD_CODE,3,5-7,Railcard code.
+Y,5,SEQUENCE_NO,4,8-11,Numeric sequence number.  Several railcard
+,6,TICKET_CODE,3,12-14,Ticket code.  The railcard restriction applies to this
+,7,ROUTE_CODE,5,15-19,Route code. The railcard restriction applies to this route
+,8,LOCATION,3,20-22,CRS code of a location. The railcard restriction applies
+,9,RESTRICTION_CODE,2,23-24,Restriction which may apply if TOTAL_BAN is not set to
+,10,TOTAL_BAN,1,25-25,‘Y’ or space.

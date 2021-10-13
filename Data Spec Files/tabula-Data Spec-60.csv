@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘R’.
+Y,3,ROUTE_CODE,5,3-7,5 digit route code.
+Y,4,END_DATE,8,8-15,Last date for which this record can be used.  Format is
+,5,START_DATE,8,16-23,First date for which this record can be used.  Format is
+,6,QUOTE_DATE,8,24-31,First date on which this record can be queried.  Format
+,7,DESCRIPTION,16,32-47,Route description.
+,8,ATB_DESC_1,35,48-82,First line of route description to be printed on ATB
+,9,ATB_DESC_2,35,83-117,Second line of route description to be printed on ATB
+,10,ATB_DESC_3,35,118-152,Third line of route description to be printed on ATB
+,11,ATB_DESC_4,35,153-187,Fourth line of route description to be printed on ATB
+,12,CC_DESC,16,188-203,Route description to be printed on credit card size
+,13,AAA-DESC,41,204-244,Alternative Availability description for season tickets
+,14,UTS_MODE,1,245-245,Used for magnetic stripe encoding.
+,15,UTS_ZONE_1,1,246-246,Values ‘Y’ or ‘N’ to indicate whether a fare with this
+,16,UTS_ZONE_2,1,247-247,Values ‘Y’ or ‘N’ to indicate whether a fare with this

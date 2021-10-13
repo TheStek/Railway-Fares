@@ -1,0 +1,6 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,16,ACCOM_CLASS,1,83-83,"Values ‘F’, ‘S’, ‘B’ or space or ‘*’.  Indicates whether"
+,17,STATUS,1,84-84,"Values ‘A’, ‘C’ or ‘B’.  Indicates whether the rule"
+,18,RESERVATION_STATUS,3,85-87,"Up to 3 reservation status codes, or spaces."
+,19,SECTORS,3,88-90,"Up to 3 train sector codes, or spaces.  Indicates"

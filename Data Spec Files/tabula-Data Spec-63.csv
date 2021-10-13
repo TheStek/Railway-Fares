@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,RECORD_TYPE,1,1-1,Contains ‘T’.
+Y,2,TOC_ID,2,2-3,TOC identifier.  Used in CIF to identify the trains of a
+,3,TOC_NAME,30,4-33,TOC name.
+,4,RESERVATION_SYSTEM,8,34-41,Not used at present.  Allows a reservation system to
+,5,ACTIVE_INDICATOR,1,42-42,Indicates whether this is an active entry (‘Y’ or ‘N’).

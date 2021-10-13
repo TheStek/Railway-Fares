@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘G’.
+Y,3,GROUP_UIC_CODE,7,3-9,UIC Code of group location.
+Y,4,END_DATE,8,10-17,Last date for which this record can be used. Format is
+,5,START_DATE,8,18-25,First date for which this record can be used. Format is
+,6,QUOTE_DATE,8,26-33,First date on which this record can be queried. Format is
+,7,DESCRIPTION,16,34-49,Description of group location.
+,8,ERS_COUNTRY,2,50-51,Along with the ERS Code this forms a reference to the
+,9,ERS_CODE,3,52-54,Along with the ERS Country this forms a reference to the

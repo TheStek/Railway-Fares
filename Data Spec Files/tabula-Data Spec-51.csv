@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘CA’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’. Used to determine the start and end
+Y,4,TICKET_CODE,3,5-7,Ticket or supplement code.
+Y,5,CAL_TYPE,1,8-8,Calendar type.
+Y,6,ROUTE_CODE,5,9-13,Route code.  The calendar applies only to this route.  If
+Y,7,COUNTRY_CODE,1,14-14,"Country code, ‘E’ for England, ‘S’ for Scotland or space."
+Y,8,DATE_FROM,4,15-18,Date band start date (within the start date/end date of the
+Y,9,DATE_TO,4,19-22,Date band end date (within the start date/end date of the
+,10,DAYS,7,23-29,"A set of 7 markers each set to ‘Y’ or ‘N’, representing the"

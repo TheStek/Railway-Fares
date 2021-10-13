@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘L’.
+Y,3,ROUTE_CODE,5,3-7,5 digit route code.
+Y,4,END_DATE,8,8-15,Last date for which this record can be used.  Format is
+Y,5,ADMIN_AREA_CODE,3,16-18,Area Admin Code of location which is included
+Y,6,NLC_CODE,4,19-22,NLC code of location which is included in/excluded
+,7,CRS_CODE,3,23-25,CRS code of location which is included in/excluded
+,8,INCL_EXCL,1,26-26,"Values are ‘I’ or ‘E’, to indicate whether the location is"

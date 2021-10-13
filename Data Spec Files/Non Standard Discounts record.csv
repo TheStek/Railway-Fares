@@ -1,0 +1,17 @@
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,01-Jan,"In a ‘changes only’ update file, indicates whether"
+Y,2,ORIGIN_CODE,4,02-May,"A code representing the flow origin, either NLC,"
+Y,3,DESTINATION_CODE,4,06-Sep,"A code representing the flow destination, either"
+Y,4,ROUTE_CODE,5,Oct-14,Contains either a 5-digit route code or ‘*****’ (5
+Y,5,RAILCARD_CODE,3,15-17,"Contains a railcard code, or 3 spaces or ‘***’ (3"
+Y,6,TICKET_CODE,3,18-20,"Contains a ticket code, ‘***’ (3 asterisks)."
+Y,7,END_DATE,8,21-28,Last date for which this record can be used.
+,8,START_DATE,8,29-36,First date for which this record can be used.
+,9,QUOTE_DATE,8,37-44,First date on which this record is available for
+,10,USE_NLC,4,45-48,The NLC code to be used to find an alternative
+,11,ADULT_NODIS_FLAG,1,49-49,Indicates whether the adult add on should be
+,12,ADULT_ADD_ON_AMOUNT,8,50-57,"The add-on amount, in pence, to be added to"
+,13,ADULT_REBOOK_FLAG,1,58-58,"Values are ‘N’, ‘Y’ or ‘S’."
+,14,CHILD_NODIS_FLAG,1,59-59,Indicates whether the child add on should be
+,15,CHILD_ADD_ON_AMOUNT,8,60-67,"The add-on amount, in pence, to be added to"
+,16,CHILD_REBOOK_FLAG,1,68-68,"Values are ‘N’, ‘Y’ or ‘S’."

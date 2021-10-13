@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,RECORD_TYPE,1,1-1,Contains ‘D’.
+Y,2,STATUS_CODE,3,2-4,3-character status code.
+Y,3,END_DATE,8,5-12,Last date for which this record can be used.
+Y,4,DISCOUNT_CATEGORY,2,13-14,A value from 1 to 20 to indicate the discount
+,5,DISCOUNT_INDICATOR,1,15-15,Indicates whether a discount applies for this
+,6,DISCOUNT_PERCENTA,3,16-18,The percentage discount which applies when this

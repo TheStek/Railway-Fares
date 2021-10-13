@@ -1,0 +1,5 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,40,UTS_EAST,3,281-283,Used for LUL magnetic stripe encoding.
+,41,UTS_SOUTH,3,284-286,Used for LUL magnetic stripe encoding.
+,42,UTS_WEST,3,287-289,Used for LUL magnetic stripe encoding.

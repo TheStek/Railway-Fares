@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,RECORD_TYPE,1,1-1,Contains ‘P’.
+Y,2,PACKAGE_CODE,3,2-4,3-character package code.
+Y,3,END_DATE,8,5-12,Last date for which this record can be used.
+,4,START_DATE,8,13-20,First date for which this record can be used.
+,5,QUOTE_DATE,8,21-28,First date on which this record can be queried.
+,6,RESTRICTION_CODE,2,29-30,Note: with the introduction of PMS this field is
+,7,ORIGIN_FACILITIES,26,31-56,Note: with the introduction of PMS this field is
+,8,DESTINATION_FACILITIES,26,57-82,Note: with the introduction of PMS this field is

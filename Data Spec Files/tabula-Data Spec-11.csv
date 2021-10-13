@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,JS_CODE,3,1-3,Journey segment identifier.
+Y,2,END_DATE,8,4-11,Last date for which this record can be used. Format is
+,3,START_DATE,8,12-19,The first date on which this record can be used. Format is
+,4,LINE,3,20-22,Values 000-127 used in LUL magnetic stripe encoding.
+,5,START,2,23-24,Values 00-31 used in LUL magnetic stripe encoding.
+,6,END,2,25-26,Values 00-31 used in LUL magnetic stripe encoding.

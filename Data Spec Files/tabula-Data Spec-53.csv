@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,19,REGION,1,86-86,Identifies the region using a code
+,20,HIERARCHY,1,87-87,Where the location fits in the hierarchy of location
+,21,CC_DESC_OUT,41,88-128,Location description for credit card size tickets for
+,22,CC_DESC_RTN,16,129-144,Location description for credit card size tickets for
+,23,ATB_DESC_OUT,60,145-204,Location description for ATB (airline) size tickets for
+,24,ATB_DESC_RTN,30,205-234,Location description for ATB (airline) size tickets for
+,25,SPECIAL_FACILITIES,26,235-260,"Indicates the facilities available at the location, each"
+,26,LUL_DIRECTION_IND,1,261-261,"Values ‘0’, ‘1’, ‘2’, ‘3’ or space.  Used for LUL"
+,27,LUL_UTS_MODE,1,262-262,Used to indicate which transport modes are encoded
+,28,LUL_ZONE_1,1,263-263,"Value = ‘Y’ or ‘N’, used for LUL magnetic stripe"
+,29,LUL_ZONE_2,1,264-264,"Value = ‘Y’ or ‘N’, used for LUL magnetic stripe"
+,30,LUL_ZONE_3,1,265-265,"Value = ‘Y’ or ‘N’, used for LUL magnetic stripe"
+,31,LUL_ZONE_4,1,266-266,"Value = ‘Y’ or ‘N’, used for LUL magnetic stripe"
+,32,LUL_ZONE_5,1,267-267,"Value = ‘Y’ or ‘N’, used for LUL magnetic stripe"
+,33,LUL_ZONE_6,1,268-268,"Value = ‘Y’ or ‘N’, used for LUL magnetic stripe"
+,34,LUL_UTS_LONDON_STN,1,269-269,Values are ‘0’ or ‘1’.  Indicates whether the station is
+,35,UTS_CODE,3,270-272,Location code for UTS.  Used for LUL magnetic
+,36,UTS_A_CODE,3,273-275,Alternative UTS code. Used for LUL magnetic stripe
+,37,UTS_PTR_BIAS,1,276-276,Used for LUL magnetic stripe encoding.
+,38,UTS_OFFSET,1,277-277,Used for LUL magnetic stripe encoding.
+,39,UTS_NORTH,3,278-280,Used for LUL magnetic stripe encoding.

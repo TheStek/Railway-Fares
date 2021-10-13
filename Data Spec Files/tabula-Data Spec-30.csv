@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,11,STD_RETURN_MAX_FLAT,8,56-63,Contains either the maximum fare to be
+,12,FIRST_LOWER_MIN,8,64-71,"Contains the lower minimum fare, in pence, for"
+,13,FIRST_HIGHER_MIN,8,72-79,"Contains the higher minimum fare, in pence, for"
+,14,STD_LOWER_MIN,8,80-87,"Contains the lower minimum fare, in pence, for"
+,15,STD_HIGHER_MIN,8,88-95,"Contains the higher minimum fare, in pence, for"
+,16,FS_MKR,1,96-96,‘Y’ or ‘N’ to indicate whether this railcard may
+,17,FR_MKR,1,97-97,‘Y’ or ‘N’ to indicate whether this railcard may
+,18,SS_MKR,1,98-98,‘Y’ or ‘N’ to indicate whether this railcard may
+,19,SR_MKR,1,99-99,‘Y’ or ‘N’ to indicate whether this railcard may

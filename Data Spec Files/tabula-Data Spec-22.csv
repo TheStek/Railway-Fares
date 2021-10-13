@@ -1,0 +1,9 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,1,2-2,Contains ‘A’.
+Y,3,RULE_NUMBER,3,3-5,Rule number.
+Y,4,END_DATE,8,6-13,Last date for which this record can be used. Format is
+Y,5,IE_MARKER,1,14-14,"‘I’ to indicate “Includes”,"
+Y,6,CONDITION_TYPE,1,15-15,Indicates what the Include/Exclude marker refers to.
+Y,7,IE_CODE,3,16-18,"A ticket, railcard, restriction or TOC code, depending on"

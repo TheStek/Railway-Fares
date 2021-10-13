@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+Y,1,RECORD_TYPE,1,1-1,Contains ‘R’.
+Y,2,ROVER_CODE,3,2-4,3-character rail rover code.
+Y,3,END_DATE,8,5-12,Last date for which this record can be used.
+,4,START_DATE,8,13-20,First date for which this record can be used.
+,5,QUOTE_DATE,8,21-28,First date on which this record can be
+,6,DESCRIPTION,30,29-58,Textual description of the rail rover.
+,7,TICKET_DESC,15,59-73,Short description for rail rover.
+,8,CAPRI_TICKET_CODE,3,74-76,"Holds the Capri ticket type, may be spaces."
+,9,ROVER_ACCOUNTING_CODE,4,77-80,Contains a code which identifies the rail
+,10,DAYS_TRAVEL,3,81-83,Holds the number of days travel allowed
+,11,MONTHS_VALID,2,84-85,Holds the number of months the rail rover is
+,12,DAYS_VALID,2,86-87,Holds the number of days the rail rover is

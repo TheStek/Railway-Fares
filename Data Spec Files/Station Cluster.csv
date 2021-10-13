@@ -1,0 +1,6 @@
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE-MARKER,1,01-Jan,"In a ƒ??changes onlyƒ?? update file, indicates whether the"
+Y,2,CLUSTER_ID,4,02-May,4-character code (alphanumeric) representing the NLC
+Y,3,CLUSTER_NLC,4,06-Sep,NLC code of a location which is a member of the cluster (it
+Y,4,END_DATE,8,Oct-17,Last date for which this record can be used. Format is
+,5,START_DATE,8,18-25,First date for which this record can be used. Format is

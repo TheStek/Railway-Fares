@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘TR’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and end
+Y,4,RESTRICTION_CODE,2,5-6,Alphanumeric restriction code.
+Y,5,SEQUENCE_NO,4,7-10,Numeric sequence number.  Several time restrictions
+Y,6,OUT_RET,1,11-11,"‘O’ or ‘R’, to indicate whether the restriction applies to"
+,7,TIME_FROM,4,12-15,4 numeric characters in the format HHMM. Gives the
+,8,TIME_TO,4,16-19,4 numeric characters in the format HHMM. Gives the
+,9,ARR_DEP_VIA,1,20-20,"‘A’, ‘D’ or ‘V’. Indicates whether the time restriction"
+,10,LOCATION,3,21-23,CRS code of a location denoting a journey
+,11,RSTR_TYPE,1,24-24,‘T’ or ‘A’.  Indicates whether the time restriction relates
+,12,TRAIN_TYPE,1,25-25,Contains a sector code which is used to indicate that
+,13,MIN_FARE_FLAG,1,26-26,‘Y’ or ‘N’.

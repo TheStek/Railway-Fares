@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,21,MAX_CHILDREN,3,81-83,0-999 – the maximum number of accompanied
+,22,MIN_CHILDREN,3,84-86,0-999 – the maximum number of accompanied
+,23,PRICE,8,87-94,Railcard price in pence.
+,24,DISCOUNT_PRICE,8,95-102,"Discount price, in pence, to be charged to holders"
+,25,VALIDITY_PERIOD,4,103-106,The validity period of this railcard in the format
+,26,LAST_VALID_DATE,8,107-114,The last date on which this railcard is valid.
+,27,PHYSICAL_CARD,1,115-115,‘Y’ or ‘N’ to indicate whether the railcard is a
+,28,CAPRI_TICKET_TYPE,3,116-118,CAPRI Ticket code.
+,29,ADULT_STATUS,3,119-121,Status code to be used when calculating adult
+,30,CHILD_STATUS,3,122-124,Status code to be used when calculating child
+,31,AAA_STATUS,3,125-127,Status code to be used when calculating AAA

@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+Key,Field,Field Name,Length,Position,Description
+,1,UPDATE_MARKER,1,1-1,"In a ‘changes only’ update file, indicates whether the"
+Y,2,RECORD_TYPE,2,2-3,Contains ‘RH’.
+Y,3,CF_MKR,1,4-4,Either ‘C’ or ‘F’.  Used to determine the start and end
+Y,4,RESTRICTION_CODE,2,5-6,Alphanumeric restriction code.
+,5,DESCRIPTION,30,7-36,Restriction description.
+,6,DESC_OUT,50,37-86,Description text for the restriction for an outward
+,7,DESC_RTN,50,87-136,Description text for the restriction for a return journey.
+,8,TYPE_OUT,1,137-137,‘P’ or ‘N’.  Indicates how the train restrictions
+,9,TYPE_RTN,1,138-138,‘P’ or ‘N’. Indicates how the train restrictions
+,10,CHANGE_IND,1,139-139,‘Y’ or ‘N’.

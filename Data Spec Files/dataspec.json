@@ -1,0 +1,47 @@
+{
+	"Fare": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/Split Out Data/fare",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Fare.csv"
+	],
+
+	"Flow": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/Split Out Data/flow",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Flow.csv"
+	],
+
+	"Station_Cluster": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/RJFAF053.fsc",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Station Cluster.csv"
+	],
+
+	"Non-Derivable_Fares": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/RJFAF053.ndf",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Non Derivable Fares.csv"
+	],
+
+	"Non-Derivable_Fare_Overrides": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/RJFAF053.nfo",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Non Derivable Fares Overrides.csv"
+	],
+
+	"Non-Standard_Discounts": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/RJFAF053.fns",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Non Standard Discounts record.csv"
+	],
+
+	"Ticket_Types": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/RJFAF053.tty",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Ticket Types.csv"
+	],
+
+	"Ticket_Validity": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/RJFAF053.tvl",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Ticket Validity.csv"
+	],
+
+	"Journey_Segments": [
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data/Raw Fare Data/RJFAF053.tjs",
+		"C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Data Spec Files/Journey Segments.csv"
+	]
+
+}

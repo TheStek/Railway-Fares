@@ -1,7 +1,7 @@
-Key,Field,Field Name,Length,Position,Description
-,1,UPDATE-MARKER,1,01-Jan,"In a ƒ??changes onlyƒ?? update file, indicates whether the"
-Y,2,RECORD_TYPE,1,02-Feb,Contains ƒ??Tƒ??.
-Y,3,FLOW_ID,7,03-Sep,Uniquely identifies the flow to which the fare pertains.
-Y,4,TICKET_CODE,3,10-Dec,3-character ticket code for the fare.
-,5,FARE,8,13-20,Fare in pence.
-,6,RESTRICTION_CODE,2,21-22,Restriction code associated with this fare.
+Key,Field,Field Name,Length,Position
+,1,UPDATE-MARKER,1,01-Jan
+Y,2,RECORD_TYPE,1,02-Feb
+Y,3,FLOW_ID,7,03-Sep
+Y,4,TICKET_CODE,3,10-Dec
+,5,FARE,8,13-20
+,6,RESTRICTION_CODE,2,21-22

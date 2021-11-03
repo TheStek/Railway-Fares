@@ -1,18 +1,18 @@
-Key,Field,Field Name,Length,Position,Description
-,1,UPDATE_MARKER,1,01-Jan,This file is always supplied as a full file refresh.
-Y,2,ORIGIN_CODE,4,02-May,"A code representing the flow origin, either NLC,"
-Y,3,DESTINATION_CODE,4,06-Sep,"A code representing the flow destination, either"
-Y,4,ROUTE_CODE,5,Oct-14,5-digit route code.
-Y,5,RAILCARD_CODE,3,15-17,Railcard code.  May be spaces if the non-
-Y,6,TICKET_CODE,3,18-20,Fare ticket code.
-Y,7,ND_RECORD_TYPE,1,21-21,"Value = ’N’, to indicate a non-derivable fare"
-Y,8,END_DATE,8,22-29,Last date for which this record can be used.
-,9,START_DATE,8,30-37,First date for which this record can be used.
-,10,QUOTE_DATE,8,38-45,First date on which this record can be used for
-,11,SUPPRESS_MKR,1,46-46,Value = ‘N’.  The suppress marker is only used
-,12,ADULT_FARE,8,47-54,"An 8-character numeric fare value, in pence."
-,13,CHILD_FARE,8,55-62,"An 8-character numeric fare value, in pence."
-,14,RESTRICTION_CODE,2,63-64,2-character restriction code; may be spaces.
-,15,COMPOSITE_INDICATOR,1,65-65,"A single character, either Y or N.  If this value is"
-,16,CROSS_LONDON_IND,1,66-66,Indicates whether this is a cross London fare (Y
-,17,PS_IND,1,67-67,Indicates whether private settlement applies to
+Key,Field,Field Name,Length,Position
+,1,UPDATE_MARKER,1,01-Jan
+Y,2,ORIGIN_CODE,4,02-May
+Y,3,DESTINATION_CODE,4,06-Sep
+Y,4,ROUTE_CODE,5,Oct-14
+Y,5,RAILCARD_CODE,3,15-17
+Y,6,TICKET_CODE,3,18-20
+Y,7,ND_RECORD_TYPE,1,21-21
+Y,8,END_DATE,8,22-29
+,9,START_DATE,8,30-37
+,10,QUOTE_DATE,8,38-45
+,11,SUPPRESS_MKR,1,46-46
+,12,ADULT_FARE,8,47-54
+,13,CHILD_FARE,8,55-62
+,14,RESTRICTION_CODE,2,63-64
+,15,COMPOSITE_INDICATOR,1,65-65
+,16,CROSS_LONDON_IND,1,66-66
+,17,PS_IND,1,67-67

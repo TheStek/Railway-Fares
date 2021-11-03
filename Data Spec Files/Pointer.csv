@@ -1,12 +1,12 @@
-Key,Field,Field Name,Length,Position,Description
-,1,UPDATE_MARKER,1,01-Jan,"In a ‘changes only’ update file, indicates whether the"
-Y,2,RECORD_TYPE,1,02-Feb,Contains ‘P’
-Y,3,SUPPLEMENT_CODE,3,03-May,Supplement code.  This code may represent a
-Y,4,RAILCARD_CODE,3,06-Aug,This will be ‘***’ if the format of the ticket does not vary
-,5,REV_CODE,3,09-Nov,This is the key to be used to access the print formats
-,6,NON_REV_CODE,3,Dec-14,This is the key to be used to access the print format file
-,7,TEXT_CODE_1,3,15-17,Contains a code which indicates a line of free text to
-,8,TEXT_CODE_2,3,18-20,Contains a code which indicates a line of free text to
-,9,TEXT_CODE_3,3,21-23,Contains a code which indicates a line of free text to
-,10,TEXT_CODE_4,3,24-26,Contains a code which indicates a line of free text to
-,11,TEXT_CODE_5,3,27-29,Contains a code which indicates a line of free text to
+Key,Field,Field Name,Length,Position
+,1,UPDATE_MARKER,1,01-Jan
+Y,2,RECORD_TYPE,1,02-Feb
+Y,3,SUPPLEMENT_CODE,3,03-May
+Y,4,RAILCARD_CODE,3,06-Aug
+,5,REV_CODE,3,09-Nov
+,6,NON_REV_CODE,3,Dec-14
+,7,TEXT_CODE_1,3,15-17
+,8,TEXT_CODE_2,3,18-20
+,9,TEXT_CODE_3,3,21-23
+,10,TEXT_CODE_4,3,24-26
+,11,TEXT_CODE_5,3,27-29

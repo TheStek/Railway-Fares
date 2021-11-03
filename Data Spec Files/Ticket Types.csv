@@ -1,32 +1,32 @@
-Key,Field,Field Name,Length,Position,Description
-,1,UPDATE_MARKER,1,01-Jan,"In a ‘changes only’ update file, indicates"
-Y,2,TICKET_CODE,3,02-Apr,Alphanumeric ticket code.
-Y,3,END_DATE,8,05-Dec,Last date for which this record can be used.
-,4,START_DATE,8,13-20,First date for which this record can be used.
-,5,QUOTE_DATE,8,21-28,First date on which this record can be queried.
-,6,DESCRIPTION,15,29-43,Ticket description.
-,7,TKT_CLASS,1,44-44,"Ticket class, currently ‘1’, ‘2’ or ‘9’."
-,8,TKT_TYPE,1,45-45,"Ticket type; single, return or season (‘S’, ‘R’ or"
-,9,TKT_GROUP,1,46-46,"Ticket group; First, Standard, Promotion or"
-,10,LAST_VALID_DAY,8,47-54,Last date on which travel using this ticket is
-,11,MAX_PASSENGERS,3,55-57,Defines the maximum number of passengers
-,12,MIN_PASSENGERS,3,58-60,Defines the minimum number of passengers
-,13,MAX_ADULTS,3,61-63,Defines the maximum number of adults who
-,14,MIN_ADULTS,3,64-66,Defines the minimum number of adults who can
-,15,MAX_CHILDREN,3,67-69,Defines the maximum number of children who
-,16,MIN_CHILDREN,3,70-72,Defines the minimum number of children who
-,17,RESTRICTED_BY_DATE,1,73-73,‘Y’ or ‘N’ to indicate whether the ticket is
-,18,RESTRICTED_BY_TRAIN,1,74-74,‘Y’ or ‘N’ to indicate whether the ticket is
-,19,RESTRICTED_BY_AREA,1,75-75,‘Y’ or ‘N’ to indicate whether the ticket is
-,20,VALIDITY_CODE,2,76-77,Validity code.
-,21,ATB_DESCRIPTION,20,78-97,Description to be printed on ATB (airline) type
-,22,LUL_XLONDON_ISSUE,1,98-98,Number of gate passes to issue.  Permitted
-,23,RESERVATION_REQUIRED,1,99-99,Indicates whether reservation is required when
-,24,CAPRI_CODE,3,100-102,CAPRI code.
-,25,LUL_93,1,103-103,Used for ticket issue.  This field is used when
-,26,UTS_CODE,2,104-105,Used in LUL magnetic stripe encoding to
-,27,TIME_RESTRICTION,1,106-106,Contains a numeric value recognised by the
-,28,FREE_PASS_LUL,1,107-107,Used for package fares only.  Indicates whether
-,29,PACKAGE_MKR,1,108-108,Indicates whether this ticket is a package.
-,30,FARE_MULTIPLIER,3,109-111,Multiplication factor used when calculating
-,31,DISCOUNT_CATEGORY,2,112-113,Discount category.  Used when a ticket is
+Key,Field,Field Name,Length,Position
+,1,UPDATE_MARKER,1,01-Jan
+Y,2,TICKET_CODE,3,02-Apr
+Y,3,END_DATE,8,05-Dec
+,4,START_DATE,8,13-20
+,5,QUOTE_DATE,8,21-28
+,6,DESCRIPTION,15,29-43
+,7,TKT_CLASS,1,44-44
+,8,TKT_TYPE,1,45-45
+,9,TKT_GROUP,1,46-46
+,10,LAST_VALID_DAY,8,47-54
+,11,MAX_PASSENGERS,3,55-57
+,12,MIN_PASSENGERS,3,58-60
+,13,MAX_ADULTS,3,61-63
+,14,MIN_ADULTS,3,64-66
+,15,MAX_CHILDREN,3,67-69
+,16,MIN_CHILDREN,3,70-72
+,17,RESTRICTED_BY_DATE,1,73-73
+,18,RESTRICTED_BY_TRAIN,1,74-74
+,19,RESTRICTED_BY_AREA,1,75-75
+,20,VALIDITY_CODE,2,76-77
+,21,ATB_DESCRIPTION,20,78-97
+,22,LUL_XLONDON_ISSUE,1,98-98
+,23,RESERVATION_REQUIRED,1,99-99
+,24,CAPRI_CODE,3,100-102
+,25,LUL_93,1,103-103
+,26,UTS_CODE,2,104-105
+,27,TIME_RESTRICTION,1,106-106
+,28,FREE_PASS_LUL,1,107-107
+,29,PACKAGE_MKR,1,108-108
+,30,FARE_MULTIPLIER,3,109-111
+,31,DISCOUNT_CATEGORY,2,112-113

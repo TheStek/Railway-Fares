@@ -9,7 +9,7 @@ for fname in file_mappings.keys():
 	try:
 		spec = pd.read_csv(spec_fname)
 		try:
-			data = pd.read_fwf(data_fname, widths = spec["Length"], header = None, names = spec["Field Name"])
+			data = pd.read_fwf(data_fname, widths = spec["Length"], header = None, names = spec["Field Name"], dtype = str)
 
 			data = data[data.iloc[:, 0] != '/']
 

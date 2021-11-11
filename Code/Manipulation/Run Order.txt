@@ -1,0 +1,29 @@
+[..] indicates manual manipulation
+--> indicates all above steps should be completed before continuing
+
+In any order at the start:
+
+remove_blank_rows - cleans up data spec files
+
+scrape_nlc - scrapes station data
+
+split_records - splits Fare data files where there are multiple record types in the same file (currently only Fare and FLow)
+
+[combine and rename data spec files]
+[add file paths for spec and data files to dataspec.json]
+
+------------>
+
+parse_fare_data - parses Fare data using spec files and outputs to csv
+
+Get Station Data - scrapes web data to compile master table for stations
+
+[add in missing location data for stations]
+
+------------>
+
+Data scoping - generate inscope csv files for non-simd tables
+
+Get distances - calculate distances between stations
+
+[fix relationship between station_datazones, stations and simd

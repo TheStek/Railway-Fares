@@ -9,6 +9,8 @@ scrape_nlc - scrapes station data
 
 split_records - splits Fare data files where there are multiple record types in the same file (currently only Fare and FLow)
 
+SIMD Summarising - selects in scope variables and summarises to datazones, intermediate zones and council areas
+
 [combine and rename data spec files]
 [add file paths for spec and data files to dataspec.json]
 
@@ -26,4 +28,8 @@ Data scoping - generate inscope csv files for non-simd tables
 
 Get distances - calculate distances between stations
 
-[fix relationship between station_datazones, stations and simd
+[add in missing datazones to station datazone]
+
+------------>
+
+Add Higher Level for Station Datazone - adds in intermediate zone and council area to station datazone

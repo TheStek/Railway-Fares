@@ -33,3 +33,9 @@ Get distances - calculate distances between stations
 ------------>
 
 Add Higher Level for Station Datazone - adds in intermediate zone and council area to station datazone
+
+Fares Scoping - select only one ticket type and add in return journeys
+
+------------>
+
+Generate Datasets - generate final datasets with all data joined and without descriptions

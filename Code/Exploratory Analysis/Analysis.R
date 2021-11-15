@@ -12,4 +12,10 @@ ggplot(data = data_in %>% sample_n(5000))+
   geom_point(aes(x = difference_PT_retail, y= FARE))
 
 
-cor(data_in)[,"FARE"]
+corr_mat <- round(cor(select(data_in, -ORIGIN_CODE, -DESTINATION_CODE)), 3)
+
+library(reshape2)
+melted_cormat <- melt(corr_mat)
+
+ggplot(data = melted_cormat %>% filter(value >=0.5), aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile()

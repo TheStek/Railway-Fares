@@ -9,6 +9,7 @@ station_datazone <- distinct(read.csv(paste(data_path, "station_datazone.csv", s
 simd_dz <- distinct(read.csv(paste(data_path, "datazone_SIMD.csv", sep = "")) %>% select(-X))
 simd_in <- distinct(read.csv(paste(data_path, "intermediate_zone_SIMD.csv", sep = "")) %>% select(-X))
 simd_ca <- distinct(read.csv(paste(data_path, "council_area_SIMD.csv", sep = "")) %>% select(-X))
+city_dists <- distinct(read.csv(paste(data_path, "distances_cities.csv", sep = "")))
 
 
 
@@ -17,7 +18,11 @@ data_with_location <- fares %>%
   left_join(distances, by = c("ORIGIN_CODE" = "Origin", "DESTINATION_CODE" = "Destination")) %>% 
   left_join(station_datazone, by = c("ORIGIN_CODE" = "NLC")) %>% 
   left_join(station_datazone, by = c("DESTINATION_CODE" = "NLC"), 
-             suffix = c(".origin", ".destination"))
+             suffix = c(".origin", ".destination")) %>%
+  left_join(city_dists, by = c("ORIGIN_CODE" = "NLC")) %>% 
+  left_join(city_dists, by = c("DESTINATION_CODE" = "NLC"), 
+            suffix = c(".origin", ".destination"))
+  
 
 
 data_dz <- data_with_location %>%

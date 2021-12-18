@@ -1,1 +1,98 @@
-[{"method": "linreg", "dataset": "datazone", "subset": "dist", "val_score": 0.7764700159035691}, {"method": "linreg", "dataset": "datazone", "subset": "simd", "val_score": 0.22332117526865516}, {"method": "linreg", "dataset": "datazone", "subset": "full", "val_score": 0.8014575905872497}, {"method": "linreg", "dataset": "intermediate zone", "subset": "dist", "val_score": 0.765898049536028}, {"method": "linreg", "dataset": "intermediate zone", "subset": "simd", "val_score": 0.21950891619279267}, {"method": "linreg", "dataset": "intermediate zone", "subset": "full", "val_score": 0.787192978094002}, {"method": "linreg", "dataset": "council area", "subset": "dist", "val_score": 0.7656572531154593}, {"method": "linreg", "dataset": "council area", "subset": "simd", "val_score": 0.43039032333875665}, {"method": "linreg", "dataset": "council area", "subset": "full", "val_score": 0.8080586264899334}, {"method": "linreg", "dataset": "intermediate zone", "subset": "dist", "val_score": 0.8894371303706003}, {"method": "linreg", "dataset": "intermediate zone", "subset": "simd", "val_score": 0.45271020699835385}, {"method": "linreg", "dataset": "intermediate zone", "subset": "full", "val_score": 0.9099439023862116}, {"method": "linreg", "dataset": "intermediate zone", "subset": "dist_remoteness", "val_score": 0.9014418883971367}]
+[
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8818002649860556
+  },
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.4466536050988763
+  },
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9032045787122057
+  },
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8937599093179531
+  },
+  {
+    "method": "linreg",
+    "dataset": "datazone",
+    "subset": "dist",
+    "val_score": 0.8834269742753043
+  },
+  {
+    "method": "linreg",
+    "dataset": "datazone",
+    "subset": "simd",
+    "val_score": 0.47519244300815144
+  },
+  {
+    "method": "linreg",
+    "dataset": "datazone",
+    "subset": "full",
+    "val_score": 0.9037917535436303
+  },
+  {
+    "method": "linreg",
+    "dataset": "datazone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8957191960637577
+  },
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8829672600228701
+  },
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.4515468053690116
+  },
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9038032002445372
+  },
+  {
+    "method": "linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8958102665996208
+  },
+  {
+    "method": "linreg",
+    "dataset": "council area",
+    "subset": "dist",
+    "val_score": 0.8874559967324138
+  },
+  {
+    "method": "linreg",
+    "dataset": "council area",
+    "subset": "simd",
+    "val_score": 0.49058992262124074
+  },
+  {
+    "method": "linreg",
+    "dataset": "council area",
+    "subset": "full",
+    "val_score": 0.9181107651946785
+  },
+  {
+    "method": "linreg",
+    "dataset": "council area",
+    "subset": "dist_remoteness",
+    "val_score": 0.8996173001287906
+  }
+]

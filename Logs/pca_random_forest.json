@@ -1,0 +1,100 @@
+[
+  {
+    "n_components": 1,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.5725732081345334
+  },
+  {
+    "n_components": 2,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9071430400313364
+  },
+  {
+    "n_components": 3,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9516036276120579
+  },
+  {
+    "n_components": 4,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9721748747495811
+  },
+  {
+    "n_components": 5,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.97521747249897
+  },
+  {
+    "n_components": 6,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9741526587302796
+  },
+  {
+    "n_components": 7,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9749741670948029
+  },
+  {
+    "n_components": 8,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9745911772359939
+  },
+  {
+    "n_components": 9,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9735117719005192
+  },
+  {
+    "n_components": 10,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.973573419699675
+  },
+  {
+    "n_components": 11,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9749795602412804
+  },
+  {
+    "n_components": 12,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9750989197818368
+  },
+  {
+    "n_components": 13,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9740998723380534
+  },
+  {
+    "n_components": 14,
+    "method": "pca_random_forest",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9752806904367787
+  }
+]

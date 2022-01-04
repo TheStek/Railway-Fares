@@ -1,11 +1,11 @@
 library(tidyverse)
 import(maps)
 
-data_path <- "C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Data\\Cleansed Data\\"
+data_path <- paste(dirname(dirname(getwd())), "\\Data\\Cleansed Data\\", sep = "")
 
 fares <- read.csv(paste(data_path, "inscope_fares.csv", sep = "")) %>% select(-X)
 coordinates <- read.csv(paste(data_path, "station.csv", sep = "")) %>% select(NLC, lat, lon)
-data_in <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Datasets\\data_in.csv")
+data_in <- read.csv(paste(dirname(dirname(getwd())), "\\Datasets\\data_in.csv", sep = ""))
 
 
 

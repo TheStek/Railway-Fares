@@ -21,3 +21,6 @@ ggplot(correlations)+
   coord_flip()+
   labs(x = "Feature", title = "Correlation with Fare by Feature", fill = "Correlation Strength")+
   scale_fill_viridis_c()
+
+
+cor(data_in %>% select(Distance), data_in %>% select(Time.min))

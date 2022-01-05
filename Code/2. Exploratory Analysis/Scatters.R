@@ -3,29 +3,53 @@ library(tidyverse)
 data_in <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Datasets\\data_in.csv")
 
 
-ggplot(data_in %>% 
+dist_fare <-ggplot(data_in %>% 
          sample_n(5000)) +
-  geom_point(aes(x = Distance, y = FARE))
-
-
-ggplot(data_in %>% 
-         sample_n(5000)) +
-  geom_point(aes(x = Distance, y = Time.min))
+  geom_point(aes(x = Distance, y = FARE/100))+
+  xlab("Journey Distance /km")+
+  ylab("Fare/£")
 
 
 ggplot(data_in %>% 
          sample_n(5000)) +
-  geom_point(aes(x = Time.min, y = FARE))
+  geom_point(aes(x = Distance, y = Time.min))+
+  xlab("Journey Distance /km")+
+  ylab("Journey Time /mins")
 
+
+time_fare <- ggplot(data_in %>% 
+         sample_n(5000)) +
+  geom_point(aes(x = Time.min, y = FARE/100))+
+  xlab("Journey Time /mins")+
+  ylab("Fare/£")
+
+
+require(gridExtra)
+grid.arrange(dist_fare, time_fare, ncol=2)
 
 ggplot(data_in %>% 
          sample_n(5000)) +
-  geom_point(aes(x = Stops, y = FARE))
+  geom_point(aes(x = Stops, y = FARE/100))+
+  ylab("Fare/£")
 
 ggplot(data_in %>% 
          sample_n(5000)) +
   geom_point(aes(x = Dist_from_Ed.origin, y = FARE))
 
+grid.arrange(
+  ggplot(data_in %>%
+           sample_n(5000)) +
+    geom_point(aes(x = Stops, y = Time.min))+
+    xlab("Number of Intermediate Stops")+
+    ylab("Journey Time/mins"),
+  
+  ggplot(data_in %>%
+           sample_n(5000)) +
+    geom_point(aes(x = Stops, y = Distance))+
+    xlab("Number of Intermediate Stops")+
+    ylab("Journey Distance /km"),
+  
+  ncol = 2)
 
 ggplot(data_in %>% 
          sample_n(5000) %>% 

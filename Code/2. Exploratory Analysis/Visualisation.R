@@ -65,7 +65,6 @@ ggplot(data_in)+
   geom_point(aes(x=Distance, y=FARE/100))+
   xlab("Journey Distance /km")+
   ylab("Fare/£")+
-  xlim(150, 200)+
-  ylim(0, 17)
+  ylim(35, 40)
 
 

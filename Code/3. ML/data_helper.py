@@ -33,17 +33,23 @@ def generate_train_val_test_set(df, name):
     output["test"]["y"] = np.ravel(test[["FARE"]])
     
     
-    output["train"]["dist"] = train[["Distance", ]]
+    output["train"]["dist"] = train[["Distance"]]
     output["val"]["dist"] = val[["Distance"]]
     output["test"]["dist"] = test[["Distance"]]
-    
-    output["train"]["dist_remoteness"] = train[["Distance","Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination"]]
-    output["val"]["dist_remoteness"] = val[["Distance","Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination"]]
-    output["test"]["dist_remoteness"] = test[["Distance","Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination"]]
 
-    output["train"]["simd"] = train[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "Distance", "FARE"}))]
-    output["val"]["simd"] = val[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "Distance", "FARE"}))]
-    output["test"]["simd"] = test[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "Distance", "FARE"}))]
+
+    output["train"]["dist_time"] = train[["Distance", "Time.min", "Stops"]]
+    output["val"]["dist_time"] = val[["Distance", "Time.min", "Stops"]]
+    output["test"]["dist_time"] = test[["Distance", "Time.min", "Stops"]]
+
+    
+    output["train"]["dist_remoteness"] = train[["Distance","Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination", "Time.min", "Stops"]]
+    output["val"]["dist_remoteness"] = val[["Distance","Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination", "Time.min", "Stops"]]
+    output["test"]["dist_remoteness"] = test[["Distance","Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination", "Time.min", "Stops"]]
+
+    output["train"]["simd"] = train[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "Distance", "Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination", "Time.min", "Stops", "FARE"}))]
+    output["val"]["simd"] = val[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "Distance", "Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination", "Time.min", "Stops", "FARE"}))]
+    output["test"]["simd"] = test[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "Distance", "Dist_from_Ed.origin", "Dist_from_Gls.origin", "Dist_from_Ed.destination", "Dist_from_Gls.destination", "Time.min", "Stops", "FARE"}))]
 
     output["train"]["full"] = train[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "FARE"}))]
     output["val"]["full"] = val[list(set(df.columns).difference({"ORIGIN_CODE", "DESTINATION_CODE", "FARE"}))]
@@ -56,7 +62,7 @@ dataset_in = generate_train_val_test_set(data_in, "intermediate zone")
 dataset_ca = generate_train_val_test_set(data_ca, "council area")
 
 datasets = (dataset_dz, dataset_in, dataset_ca)
-subsets = ("dist", "simd", "full", "dist_remoteness")
+subsets = set(dataset_in["train"].keys()).difference("y")
 
 import json
 
@@ -87,7 +93,6 @@ def fit_and_evaluate_ML_model(method, method_name, dataset, subset = "full", log
     # Handle final_model type error
     try:
         del output["final_model"]
-        print("Deleted final_model")
     except Exception:
         pass
 
@@ -114,4 +119,24 @@ def check_on_dataset(method, method_name, log_name, dataset = dataset_in, *args,
             fit_and_evaluate_ML_model(method, method_name, dataset, subset = subset, log_name = log_name, *args, **kwargs)
         except Exception as e:
             with open(project_path + "/Logs/errors.txt", 'a') as log:
-                log.write(",".join((method_name, dataset["name"], subset, str(e))))
+                log.write("\n,".join((method_name, dataset["name"], subset, str(e))))
+
+
+
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+
+
+def PCA_model(final_model, n_components=5, *args, **kwargs):
+    model = final_model(*args, **kwargs)
+    pca = PCA(n_components = n_components)
+    return Pipeline(steps = [('pca', pca), ("ml_model", model)])
+
+
+
+def scaled_model(final_model ,*args, **kwargs):
+    return Pipeline([
+        ("scale", StandardScaler()),
+        ("ml_model", final_model(*args, **kwargs))
+    ])

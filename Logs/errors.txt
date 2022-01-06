@@ -1,1 +1,187 @@
-gp-constant,intermediate zone,dist,Unable to allocate 10.9 GiB for an array with shape (38309, 38309, 1) and data type float64gp-constant,intermediate zone,simd,Unable to allocate 10.9 GiB for an array with shape (38309, 38309, 1) and data type float64gp-constant,intermediate zone,full,Unable to allocate 10.9 GiB for an array with shape (38309, 38309, 1) and data type float64gp-constant,intermediate zone,dist_remoteness,Unable to allocate 10.9 GiB for an array with shape (38309, 38309, 1) and data type float64gp-rbf,intermediate zone,dist,Unable to allocate 10.9 GiB for an array with shape (38309, 38309) and data type float64
+PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=2 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=2 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=3 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=3 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=4 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=4 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=4 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=4 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=5 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=5 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=5 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=5 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=6 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=6 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=6 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=6 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=7 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=7 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=7 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=7 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=8 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=8 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=8 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=8 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=8 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=8 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=9 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=9 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=9 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=9 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=9 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=9 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=10 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=10 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=10 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=10 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=10 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=10 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=11 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=11 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=11 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=11 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=11 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=11 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=12 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=12 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=12 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=12 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=12 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=12 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=13 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=13 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=13 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=13 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=13 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=13 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=14 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=14 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=14 must be between 0 and n_features=3 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_remoteness
+,n_components=14 must be between 0 and n_features=7 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist
+,n_components=14 must be between 0 and n_features=1 with svd_solver='full'PCA_lin_reg
+,intermediate zone
+,dist_time
+,n_components=14 must be between 0 and n_features=3 with svd_solver='full'

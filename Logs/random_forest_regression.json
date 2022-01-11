@@ -4,24 +4,8 @@
     "max_features": "auto",
     "method": "rfr",
     "dataset": "intermediate zone",
-    "subset": "dist_remoteness",
-    "val_score": 0.9828944390678855
-  },
-  {
-    "bootstrap": true,
-    "max_features": "auto",
-    "method": "rfr",
-    "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8486679263583875
-  },
-  {
-    "bootstrap": true,
-    "max_features": "auto",
-    "method": "rfr",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9806407934711862
+    "val_score": 0.859752415844919
   },
   {
     "bootstrap": true,
@@ -29,7 +13,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.942471128962008
+    "val_score": 0.944594150646536
   },
   {
     "bootstrap": true,
@@ -37,15 +21,23 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9304993095594348
+    "val_score": 0.9296894343926129
   },
   {
     "bootstrap": true,
-    "max_features": "sqrt",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9813716373114225
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9833135002129801
+    "val_score": 0.982733347476048
   },
   {
     "bootstrap": true,
@@ -53,15 +45,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8325593060676951
-  },
-  {
-    "bootstrap": true,
-    "max_features": "sqrt",
-    "method": "rfr",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9771265067163354
+    "val_score": 0.8394441283068368
   },
   {
     "bootstrap": true,
@@ -69,7 +53,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9346306617087193
+    "val_score": 0.9392051151799862
   },
   {
     "bootstrap": true,
@@ -77,15 +61,23 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9316186302858307
+    "val_score": 0.9302830469341684
   },
   {
     "bootstrap": true,
-    "max_features": "log2",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.980688395432322
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9825140174146916
+    "val_score": 0.9836509459074012
   },
   {
     "bootstrap": true,
@@ -93,15 +85,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8300305355070494
-  },
-  {
-    "bootstrap": true,
-    "max_features": "log2",
-    "method": "rfr",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9748448834981173
+    "val_score": 0.8314434582955852
   },
   {
     "bootstrap": true,
@@ -109,7 +93,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9362851254782455
+    "val_score": 0.9398334074031701
   },
   {
     "bootstrap": true,
@@ -117,15 +101,23 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9314827761886499
+    "val_score": 0.930334465827185
   },
   {
-    "bootstrap": false,
-    "max_features": "auto",
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9768733947899204
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9718747298893967
+    "val_score": 0.9844887778299597
   },
   {
     "bootstrap": false,
@@ -133,15 +125,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.7785333461696025
-  },
-  {
-    "bootstrap": false,
-    "max_features": "auto",
-    "method": "rfr",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9675152268086095
+    "val_score": 0.7842173788527952
   },
   {
     "bootstrap": false,
@@ -149,7 +133,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9141528128905531
+    "val_score": 0.9111200727624678
   },
   {
     "bootstrap": false,
@@ -157,15 +141,23 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9426290196465595
+    "val_score": 0.9402327983117104
   },
   {
     "bootstrap": false,
-    "max_features": "sqrt",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9668934624652078
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9824626654275764
+    "val_score": 0.9705974164748997
   },
   {
     "bootstrap": false,
@@ -173,15 +165,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8583893715122166
-  },
-  {
-    "bootstrap": false,
-    "max_features": "sqrt",
-    "method": "rfr",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9799952168763768
+    "val_score": 0.868938677881829
   },
   {
     "bootstrap": false,
@@ -189,7 +173,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9291768033004962
+    "val_score": 0.9326894613693919
   },
   {
     "bootstrap": false,
@@ -197,15 +181,23 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9426290196465595
+    "val_score": 0.9402327983117104
   },
   {
     "bootstrap": false,
-    "max_features": "log2",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9815736940038314
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9840415451958008
+    "val_score": 0.9845949012705528
   },
   {
     "bootstrap": false,
@@ -213,15 +205,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8523431525243166
-  },
-  {
-    "bootstrap": false,
-    "max_features": "log2",
-    "method": "rfr",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9765897933174528
+    "val_score": 0.8518944201054386
   },
   {
     "bootstrap": false,
@@ -229,7 +213,7 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.929287108024657
+    "val_score": 0.9317625952533648
   },
   {
     "bootstrap": false,
@@ -237,15 +221,23 @@
     "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9426290196465595
+    "val_score": 0.9402327983117104
   },
   {
-    "bootstrap": true,
-    "max_features": "auto",
-    "method": "rfr_scaled",
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9793223850488068
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9825006096002823
+    "val_score": 0.9836913050881
   },
   {
     "bootstrap": true,
@@ -253,15 +245,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8457341137438171
-  },
-  {
-    "bootstrap": true,
-    "max_features": "auto",
-    "method": "rfr_scaled",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9797329697895985
+    "val_score": 0.860211531651358
   },
   {
     "bootstrap": true,
@@ -269,7 +253,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9422681752574366
+    "val_score": 0.9438750743560428
   },
   {
     "bootstrap": true,
@@ -277,15 +261,23 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9311553418194081
+    "val_score": 0.930282738346665
   },
   {
     "bootstrap": true,
-    "max_features": "sqrt",
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9807972963302112
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9823753149628734
+    "val_score": 0.9821476732941226
   },
   {
     "bootstrap": true,
@@ -293,15 +285,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8339745770746935
-  },
-  {
-    "bootstrap": true,
-    "max_features": "sqrt",
-    "method": "rfr_scaled",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9779396317562814
+    "val_score": 0.8353478016159597
   },
   {
     "bootstrap": true,
@@ -309,7 +293,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9361789158624635
+    "val_score": 0.9383396580122451
   },
   {
     "bootstrap": true,
@@ -317,15 +301,23 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9323759041718767
+    "val_score": 0.9310972151386752
   },
   {
     "bootstrap": true,
-    "max_features": "log2",
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.979505041251475
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9841155830847851
+    "val_score": 0.984039124490059
   },
   {
     "bootstrap": true,
@@ -333,15 +325,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8267085584762133
-  },
-  {
-    "bootstrap": true,
-    "max_features": "log2",
-    "method": "rfr_scaled",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9747336708232777
+    "val_score": 0.8270401976589388
   },
   {
     "bootstrap": true,
@@ -349,7 +333,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9381442507293363
+    "val_score": 0.9383070257511201
   },
   {
     "bootstrap": true,
@@ -357,15 +341,23 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9302302280714877
+    "val_score": 0.9302973190963701
   },
   {
-    "bootstrap": false,
-    "max_features": "auto",
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9763976947941543
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9718373508437683
+    "val_score": 0.9828340107527433
   },
   {
     "bootstrap": false,
@@ -373,15 +365,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.7808930921236872
-  },
-  {
-    "bootstrap": false,
-    "max_features": "auto",
-    "method": "rfr_scaled",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9672250043162316
+    "val_score": 0.7845891933395902
   },
   {
     "bootstrap": false,
@@ -389,7 +373,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.9136033191336573
+    "val_score": 0.9109808798735682
   },
   {
     "bootstrap": false,
@@ -397,15 +381,23 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9425815177010312
+    "val_score": 0.940205966672046
   },
   {
     "bootstrap": false,
-    "max_features": "sqrt",
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9684112948060056
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.9835149796936562
+    "val_score": 0.9704940290893166
   },
   {
     "bootstrap": false,
@@ -413,15 +405,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8566503027200522
-  },
-  {
-    "bootstrap": false,
-    "max_features": "sqrt",
-    "method": "rfr_scaled",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9803862801080997
+    "val_score": 0.865614613010499
   },
   {
     "bootstrap": false,
@@ -429,7 +413,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.92895198337445
+    "val_score": 0.9315969758868599
   },
   {
     "bootstrap": false,
@@ -437,15 +421,23 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9425815177010312
+    "val_score": 0.940205966672046
   },
   {
     "bootstrap": false,
-    "max_features": "log2",
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9813332475580819
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_remoteness",
-    "val_score": 0.983543439635382
+    "val_score": 0.9839960303061467
   },
   {
     "bootstrap": false,
@@ -453,15 +445,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "simd",
-    "val_score": 0.8520315331843953
-  },
-  {
-    "bootstrap": false,
-    "max_features": "log2",
-    "method": "rfr_scaled",
-    "dataset": "intermediate zone",
-    "subset": "full",
-    "val_score": 0.9772094089160394
+    "val_score": 0.8577846785312349
   },
   {
     "bootstrap": false,
@@ -469,7 +453,7 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist_time",
-    "val_score": 0.931055180731047
+    "val_score": 0.9317459051747461
   },
   {
     "bootstrap": false,
@@ -477,6 +461,547 @@
     "method": "rfr_scaled",
     "dataset": "intermediate zone",
     "subset": "dist",
-    "val_score": 0.9425815177010312
+    "val_score": 0.940205966672046
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9795611403111293
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9846400612602958
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8634758872727627
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9432668598975226
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9304234624635143
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9814262549959815
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9825531939985712
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8365995787523196
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9380940258962523
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9304404611963295
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9800756286178465
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9827803833867971
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8317378042496509
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9384825013335486
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9305045908724235
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9757865118499243
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9821860464845708
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.7837775377036607
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9113460650721227
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9402327983117104
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9680893554265612
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9703749285263519
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8647633701841132
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.932298935550448
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9402327983117104
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9811748293627793
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9838109289548517
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8559120463729089
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9318168227060712
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9402327983117104
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9786697480053931
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9839412307699121
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8617407183685856
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9435097855698794
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.92909905854137
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9806247653024257
+  },
+  {
+    "bootstrap": true,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9825754952844068
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8384993084018814
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9385836414108554
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9297638769869923
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.980013196059449
+  },
+  {
+    "bootstrap": true,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9827851473543314
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8298769469387226
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9396416360953881
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9295730179112743
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9767544367072134
+  },
+  {
+    "bootstrap": true,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9841892909647525
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.7826328454101744
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9109509563095471
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.940205966672046
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.96769558138645
+  },
+  {
+    "bootstrap": false,
+    "max_features": "auto",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9707124326523489
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8622250335405842
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9327563443677164
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.940205966672046
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9812217767076118
+  },
+  {
+    "bootstrap": false,
+    "max_features": "sqrt",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9837146424470801
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8584718654340673
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9336103341336114
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.940205966672046
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9787060905818606
+  },
+  {
+    "bootstrap": false,
+    "max_features": "log2",
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.983935827469525
+  },
+  {
+    "n_components": 1,
+    "max_features": "log2",
+    "bootstrap": false,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9402457186659279
+  },
+  {
+    "n_components": 2,
+    "max_features": "log2",
+    "bootstrap": false,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9050052851791658
+  },
+  {
+    "n_components": 6,
+    "max_features": "log2",
+    "bootstrap": false,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9811995485096828
+  },
+  {
+    "n_components": 8,
+    "max_features": "log2",
+    "bootstrap": false,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9807848187753015
+  },
+  {
+    "n_components": 11,
+    "max_features": "log2",
+    "bootstrap": false,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.6266107009233434
   }
 ]

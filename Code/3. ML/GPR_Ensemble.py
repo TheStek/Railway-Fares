@@ -6,7 +6,7 @@ from sklearn.gaussian_process.kernels import RBF
 from sklearn.preprocessing import StandardScaler
 
 class GPR_Ensemble:
-    def __init__(self, n = 50, kernel = RBF(), scaling = True):
+    def __init__(self, n = 50, kernel = RBF(), scaling = True, bootstrap = False):
         
         """
         n: number of Gaussian ProcessRegressor models
@@ -14,6 +14,7 @@ class GPR_Ensemble:
         """
         self.n = n
         self.scaling = scaling
+        self.bootstrap = bootstrap
         
         if hasattr(kernel, '__iter__'):
             assert len(kernel) == n, "Invalid number of kernels"
@@ -27,12 +28,25 @@ class GPR_Ensemble:
     # Fits GPR models on different 
     def fit(self, X, y):
         
+
+        assert len(X) == len(y), "X, y must have the same size"
+
         if self.scaling:
             self.scaler = StandardScaler().fit(X)
             X = self.scaler.transform(X)
         
-        X_split = np.array_split(X, self.n)
-        y_split = np.array_split(y, self.n)
+        if self.bootstrap:
+            sample_size = int(len(y)/self.n)
+            X_split = []
+            y_split = []
+            for i in range(self.n):
+                sample_indices = np.random.randint(0, len(y), sample_size)
+                X_split.append(np.array(X)[sample_indices])
+                y_split.append(np.array(y)[sample_indices])
+
+        else:
+            X_split = np.array_split(X, self.n)
+            y_split = np.array_split(y, self.n)
         
         assert list(map(len, X_split)) == list(map(len, y_split)), "Error while splitting data"
         

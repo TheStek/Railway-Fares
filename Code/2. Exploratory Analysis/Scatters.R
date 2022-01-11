@@ -1,4 +1,5 @@
 library(tidyverse)
+require(gridExtra)
 
 data_in <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Datasets\\data_in.csv")
 
@@ -24,7 +25,7 @@ time_fare <- ggplot(data_in %>%
   ylab("Fare/£")
 
 
-require(gridExtra)
+
 grid.arrange(dist_fare, time_fare, ncol=2)
 
 ggplot(data_in %>% 
@@ -69,4 +70,22 @@ ggplot(data_in %>%
   geom_point(aes(x = Remoteness, y = FARE))
 
 
+grid.arrange(
+  ggplot(data_in %>%
+           sample_n(5000)) +
+    geom_point(aes(x = PT_GP.destination, y = FARE/100))+
+    ylab("Fare /£"),
+  
+  ggplot(data_in %>%
+           sample_n(5000)) +
+    geom_point(aes(x = drive_secondary.origin, y = FARE/100))+
+    ylab("Fare /£"),
+  
+  ncol = 2)
+
+ggplot(data_in %>%
+         sample_n(5000)) +
+  geom_point(aes(x = PT_GP.origin, y = PT_GP.destination, color = FARE/100))+
+  scale_colour_viridis_c()+
+  labs(color = "Fare /£")
   

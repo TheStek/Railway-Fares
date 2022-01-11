@@ -1,0 +1,16 @@
+gpr_ensemble
+,intermediate zone
+,full
+,("The kernel, DotProduct(sigma_0=1), is not returning a positive definite matrix. Try gradually increasing the 'alpha' parameter of your GaussianProcessRegressor estimator.", '104-th leading minor of the array is not positive definite')gpr_ensemble
+,intermediate zone
+,dist
+,("The kernel, DotProduct(sigma_0=1), is not returning a positive definite matrix. Try gradually increasing the 'alpha' parameter of your GaussianProcessRegressor estimator.", '350-th leading minor of the array is not positive definite')gpr_ensemble
+,intermediate zone
+,dist_time
+,("The kernel, DotProduct(sigma_0=1), is not returning a positive definite matrix. Try gradually increasing the 'alpha' parameter of your GaussianProcessRegressor estimator.", '166-th leading minor of the array is not positive definite')gpr_ensemble
+,intermediate zone
+,simd
+,("The kernel, DotProduct(sigma_0=1), is not returning a positive definite matrix. Try gradually increasing the 'alpha' parameter of your GaussianProcessRegressor estimator.", '736-th leading minor of the array is not positive definite')gpr_ensemble
+,intermediate zone
+,dist_remoteness
+,("The kernel, DotProduct(sigma_0=1), is not returning a positive definite matrix. Try gradually increasing the 'alpha' parameter of your GaussianProcessRegressor estimator.", '110-th leading minor of the array is not positive definite')

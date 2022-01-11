@@ -96,6 +96,11 @@ def fit_and_evaluate_ML_model(method, method_name, dataset, subset = "full", log
     except Exception:
         pass
 
+    try:
+        output["kernel"] = str(output["kernel"])
+    except Exception:
+        pass
+
     if not log_name is None:
         append_to_json(output, project_path + "/Logs/" +log_name + ".json")
     else:

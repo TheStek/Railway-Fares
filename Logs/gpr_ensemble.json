@@ -323,5 +323,50 @@
     "dataset": "intermediate zone",
     "subset": "dist",
     "val_score": 0.9265237018892345
+  },
+  {
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "scaling": true,
+    "bootstrap": true,
+    "method": "gpr_ensemble",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9437581300880017
+  },
+  {
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "scaling": true,
+    "bootstrap": true,
+    "method": "gpr_ensemble",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9097066850219463
+  },
+  {
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "scaling": true,
+    "bootstrap": true,
+    "method": "gpr_ensemble",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.51716456166662
+  },
+  {
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "scaling": true,
+    "bootstrap": true,
+    "method": "gpr_ensemble",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9057282721344325
+  },
+  {
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "scaling": true,
+    "bootstrap": true,
+    "method": "gpr_ensemble",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9243001316900261
   }
 ]

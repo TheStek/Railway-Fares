@@ -14,4 +14,10 @@ rfr <- fromJSON(paste(log_path, "random_forest_regression.json", sep = ""))
 
 rfr %>% arrange(desc(val_score))
 
+gpr <- fromJSON(paste(log_path, "gpr_ensemble.json", sep = ""))
+
+gpr %>% arrange(desc(val_score))
+
+
+gpr %>% arrange(subset, kernel, desc(val_score))
 

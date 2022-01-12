@@ -368,5 +368,205 @@
     "dataset": "intermediate zone",
     "subset": "dist",
     "val_score": 0.9243001316900261
+  },
+  {
+    "n_components": 1,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.93212089869055
+  },
+  {
+    "n_components": 2,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9007544268502313
+  },
+  {
+    "n_components": 6,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9400074613057837
+  },
+  {
+    "n_components": 8,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.935132562395909
+  },
+  {
+    "n_components": 11,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.40290318564161376
+  },
+  {
+    "n_components": 1,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9584050640135935
+  },
+  {
+    "n_components": 2,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9009397558205717
+  },
+  {
+    "n_components": 6,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9403475980764855
+  },
+  {
+    "n_components": 8,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9345457596566165
+  },
+  {
+    "n_components": 11,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": true,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5372925389564255
+  },
+  {
+    "n_components": 1,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.92982727939312
+  },
+  {
+    "n_components": 2,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8891945674108782
+  },
+  {
+    "n_components": 6,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9380004713040621
+  },
+  {
+    "n_components": 8,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9480156689302697
+  },
+  {
+    "n_components": 11,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": true,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.3569793733339718
+  },
+  {
+    "n_components": 1,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9579216787117644
+  },
+  {
+    "n_components": 2,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.906437059792409
+  },
+  {
+    "n_components": 6,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9441358148997966
+  },
+  {
+    "n_components": 8,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9435294769918965
+  },
+  {
+    "n_components": 11,
+    "kernel": "RationalQuadratic(alpha=1, length_scale=1)",
+    "bootstrap": false,
+    "scaling": false,
+    "method": "pca_gpr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.45249454669576494
   }
 ]

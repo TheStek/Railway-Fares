@@ -21,3 +21,4 @@ gpr %>% arrange(desc(val_score))
 
 gpr %>% arrange(subset, kernel, desc(val_score))
 
+gpr %>% filter(kernel == "RationalQuadratic(alpha=0.1, length_scale=1)") %>% arrange(desc(val_score))

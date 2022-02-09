@@ -1,0 +1,263 @@
+[
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9846666915720386
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9338294434463135
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9475369182488933
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9832992916984559
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.885983600878044
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9581783582224407
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9343891625933229
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9464546105276446
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9440381952637532
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "auto",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.7501439804529095
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9862619684915456
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9340338277148282
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9432682346128215
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9846292552565327
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8703291663548289
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9787813898706768
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9341261846220504
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9350858313921244
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9532924100509619
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "sqrt",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.7910041137981014
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9863188468045309
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9341468354573083
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9437307488719665
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9829039918610264
+  },
+  {
+    "bootstrap": true,
+    "criterion": "squared_error",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8660279170451695
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9788532320467023
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.9342328429516289
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9351457535035075
+  },
+  {
+    "bootstrap": true,
+    "criterion": "poisson",
+    "max_features": "log2",
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9484590462539445
+  }
+]

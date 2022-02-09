@@ -1,0 +1,317 @@
+[
+  {
+    "normalize": true,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23549695774575707
+  },
+  {
+    "normalize": true,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258939659897779
+  },
+  {
+    "normalize": true,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294712408223271
+  },
+  {
+    "normalize": true,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173305325776849
+  },
+  {
+    "normalize": true,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874569338978113
+  },
+  {
+    "normalize": false,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23577179427421158
+  },
+  {
+    "normalize": false,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258939659897779
+  },
+  {
+    "normalize": false,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294847886520112
+  },
+  {
+    "normalize": false,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173305325776849
+  },
+  {
+    "normalize": false,
+    "method": "lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874569338978113
+  },
+  {
+    "normalize": true,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23560244152241927
+  },
+  {
+    "normalize": true,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258939659897779
+  },
+  {
+    "normalize": true,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294814077536665
+  },
+  {
+    "normalize": true,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173305325776849
+  },
+  {
+    "normalize": true,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874569338978113
+  },
+  {
+    "normalize": false,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2355431133627093
+  },
+  {
+    "normalize": false,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258939659897779
+  },
+  {
+    "normalize": false,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294890677505936
+  },
+  {
+    "normalize": false,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173305325776849
+  },
+  {
+    "normalize": false,
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874569338978113
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874569338978113
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972431467520738
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108638531652515
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119987453244439
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13095746681625942
+  },
+  {
+    "normalize": true,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.16616179624158456
+  },
+  {
+    "normalize": true,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8045144847523762
+  },
+  {
+    "normalize": true,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8096317840517685
+  },
+  {
+    "normalize": true,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.7768052287669333
+  },
+  {
+    "normalize": true,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.6652057961969411
+  },
+  {
+    "normalize": false,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23332769115127694
+  },
+  {
+    "normalize": false,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258939656581666
+  },
+  {
+    "normalize": false,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294502728517785
+  },
+  {
+    "normalize": false,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173305322510693
+  },
+  {
+    "normalize": false,
+    "method": "ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874569338685442
+  },
+  {
+    "normalize": true,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.166161796241584
+  },
+  {
+    "normalize": true,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8045144847523757
+  },
+  {
+    "normalize": true,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8096317840517682
+  },
+  {
+    "normalize": true,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.7768052287669331
+  },
+  {
+    "normalize": true,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.6652057961969411
+  },
+  {
+    "normalize": false,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23577258762588937
+  },
+  {
+    "normalize": false,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925893971099046
+  },
+  {
+    "normalize": false,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294859399760711
+  },
+  {
+    "normalize": false,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173305192274785
+  },
+  {
+    "normalize": false,
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874568942254412
+  }
+]

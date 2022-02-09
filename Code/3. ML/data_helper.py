@@ -17,6 +17,8 @@ data_in = pd.read_csv(project_path + "/Datasets/data_in.csv")
 data_ca = pd.read_csv(project_path + "/Datasets/data_ca.csv")
 
 def generate_train_val_test_set(df, name):
+
+    np.random.seed(50)
     
     df = df.dropna()
     
@@ -96,6 +98,8 @@ def fit_and_evaluate_ML_model(method, method_name, dataset, subset = "full", log
     except Exception:
         pass
 
+
+    # Handle kernel parameters - should output nicely to kernel(params) as string
     try:
         output["kernel"] = str(output["kernel"])
     except Exception:
@@ -117,6 +121,8 @@ def check_on_all_data(method, method_name, log_name, *args, **kwargs):
                 with open(project_path + "/Logs/errors.txt", 'a') as log:
                     log.write(", ".join((method_name, dataset["name"], subset, str(e))) + "\n\n")
                     
+
+# TODO:: make the error log look a bit more readable (change the newlines)
                     
 def check_on_dataset(method, method_name, log_name, dataset = dataset_in, *args, **kwargs):
     for subset in subsets:

@@ -13,8 +13,7 @@ data_with_speed <- data_in %>%
 
 
 ggplot(data = data_with_speed)+
-  geom_histogram(aes(x=Speed), bins = 50) +
-  xlim(0, 100)
+  geom_histogram(aes(x=Speed), bins = 50)
 
 data_with_speed %>%
   filter(Speed > 80) %>%

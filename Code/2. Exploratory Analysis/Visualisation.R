@@ -1,5 +1,5 @@
 library(tidyverse)
-import(maps)
+library(maps)
 
 data_path <- paste(dirname(dirname(getwd())), "\\Data\\Cleansed Data\\", sep = "")
 
@@ -13,8 +13,8 @@ fare_station <- fares %>%
   inner_join(coordinates, by = c("ORIGIN_CODE" = "NLC")) %>%
   inner_join(coordinates, by = c("DESTINATION_CODE" = "NLC"), suffix = c(".origin", ".dest"))
 
-plot_routes <- function(n_routes){
-  fare_station_sample <- fare_station %>%
+plot_routes <- function(fare_station_data){
+  fare_station_sample <- fare_station_data %>%
     sample_n(n_routes) %>%
     mutate(fnum = row_number())
   

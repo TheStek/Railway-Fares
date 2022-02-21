@@ -36,16 +36,21 @@ plot_data <- data_with_speed %>% sample_n(5000)
 
 summary(lm(Time.min~Distance, plot_data))
 
-ggplot(data = plot_data, mapping = aes(x=Distance, y = Time.min, label = ifelse(Time.min/Distance > 1.5, Route, ""))) +
+ggplot(data = plot_data, mapping = aes(x=Distance, y = Time.min, label = ifelse(Time.min/Distance > 1.5 | Time.min/Distance < 0.7, Route, ""), color=FARE/100)) +
   geom_point()+
   xlab("Journey Distance /km")+
   ylab("Journey Time /mins")+
-  geom_text_repel(box.padding = 0.5)
+  labs(color = "Fare/£")+
+  scale_colour_viridis_c()+
+  geom_text_repel(box.padding = 0.7, color = "black")
 
 ggplot(plot_data, aes(x = Stops, y = FARE/100, label = ifelse(Stops > 10, Route, ""))) +
   geom_point()+
   ylab("Fare/£")+
-  geom_text_repel(box.padding = 0.5)
+  geom_text_repel(box.padding = 0.5, color = "black")
+
+
+
 
 
 summary(lm(FARE~Distance, plot_data))
@@ -69,3 +74,20 @@ time_fare <- ggplot(plot_data, aes(x = Time.min, y = FARE/100, label = ifelse(FA
 
 
 grid.arrange(dist_fare, time_fare, ncol=2, widths = c(2, 2))  
+
+
+
+ggplot(plot_data) +
+  geom_point(aes(x = Distance, y = Time.min))+
+  xlab("Journey Distance /km")+
+  ylab("Journey Time /mins")+
+  geom_text_repel(box.padding = 0.7)
+
+
+
+ggplot(plot_data, aes(x = Stops, y = FARE/100, label = ifelse(Stops > 10 | FARE/100 <30, Route, ""))) +
+  geom_point()+
+  ylab("Fare/£")+
+  geom_text_repel(box.padding = 0.7)
+
+

@@ -62,11 +62,11 @@ map_route_speed(data_with_speed %>% filter(Speed > 160 | Speed < 5))
 map_route_speed(data_with_speed %>% filter(Speed < 10))
 
 
-ggplot(data = data_with_speed %>% filter(CRS.origin == 'DUN' | CRS.dest == 'DUN'))+
+ggplot(data = data_with_speed)+
   geom_histogram(aes(x=Speed), bins = 50)
 
 ggplot(data = data_with_speed)+
-  geom_histogram(aes(x = Speed), bins = 100)+
+  geom_histogram(aes(x = Speed), bins = 150)+
   xlab("Speed/ km/h")+
   ylab("Number of Routes")
 

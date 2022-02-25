@@ -1,0 +1,5172 @@
+[
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23534623589556025
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2344291778967974
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2327841121616473
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23378170904287776
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2349891810866408
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23436945528657993
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23529161820009015
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2352587058415333
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23395798481961882
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2352799109063819
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23456340960502664
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23542734967470502
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23499834831653232
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23423922147103937
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23471180442190986
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2348605891610176
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2342424897425741
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2352210224493897
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23476643232422412
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23366404650582173
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23516419578984304
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23457157057171474
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23377769599047116
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23447358303657684
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2325985391282266
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2346307388333152
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23481671589975517
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23454099524674654
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23469937777101224
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23448114611109816
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23406088632648037
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23447605258626614
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23578457338481118
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23399123685933776
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23397408793771968
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23510712075825846
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23396650582077494
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23417956159979358
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23492831347949694
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23450658856451556
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2338584012664835
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23589130122750468
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23486018432025946
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23443153868301791
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2349549467830644
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23495962036760065
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2355807981242103
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23500859613702385
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23511060745525503
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2356573811687931
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292105752685648
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9282472812711146
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9281204972357322
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293749701711171
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9289997549536642
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.923219657320076
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9289759972141403
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9264013617363215
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292985257932477
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292750637027369
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293953112999446
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294245127434276
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293473791684443
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9287946111960512
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929352390767374
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293656455739709
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9291685664490261
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9266992070827196
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9274765032752728
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9281886545227108
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2354074507679761
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23459308196049256
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23338904981192587
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23443856948667374
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23497144908308787
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2345328962477452
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23530484237141225
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23539255709115703
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23407583509090213
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23516644669810516
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23477205304235138
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23555243489283573
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23513512024659966
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23417444630625806
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23517147687514384
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2347821063370762
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23455917002748017
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23513427595644854
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23498626480633378
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23395697393281467
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23507203159593137
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23485011497185615
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23345467049730806
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23448531887270385
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23280291171972856
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23448868129893063
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2347107523393609
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23439503375863802
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23482282801003973
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23455465154540678
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23431404062855687
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23454388929122483
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2358469198547477
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2339670871560403
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23405584897971143
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2351776879207289
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23340332838111943
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2339418414141733
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.235082063324895
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2347416978588006
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23373193989523988
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23535188326883416
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23482383355048342
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23445741296619216
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23491291335186537
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23519603906026998
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2356406538314718
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23524631093459747
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23475202637345027
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23578610392567956
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874490918091602
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874571340464494
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874495328696231
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887457478088279
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874559962180583
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874572074022645
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887442832290731
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8873862694470125
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887437669839952
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874483806951573
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874505670469087
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887438341405608
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874552826591502
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874556330770242
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887456496699358
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874412606559889
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874337766939538
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874456874770569
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874568033537178
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887453715665923
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874563439187184
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874490165122415
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874514786671683
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874562525716012
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874506715350979
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887451638339438
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874553081324464
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874567841980218
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874572724146708
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874563684056691
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887427571185095
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874456163285638
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874552571707426
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874520419562872
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874555469591991
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887446334238805
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874480772577861
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874331843066934
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887456646541551
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874507096780815
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874333183404722
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887454975557943
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874522712283792
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874480605120278
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874379712325321
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874182888296909
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874433128681738
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874443443418499
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874506150128244
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874571877415393
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925887998080575
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258946756101347
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259211571046738
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257548787301175
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258289022255272
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258134044200061
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258382621375544
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925961480010274
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257762345209067
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257290531094315
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258963510431473
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9256782279507665
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259471559601841
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259127351914975
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258993211698987
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258621999132627
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258008213124104
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259402823707934
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259998157401499
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925881744786811
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258574874973631
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259067976084969
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258941613636827
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258874319770918
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258470554068291
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259952672674449
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258225850278015
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257731907688102
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259405481534373
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257713354834558
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257986544752619
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259190169302173
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925939656547974
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258132497248662
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258141781229504
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258632888892915
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258499064575977
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257952331792563
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258365015084181
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257281805017447
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259286241504261
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257144902166929
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257923146507786
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259272701468413
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258450507045227
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258969943146615
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925819705273183
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9256955045322042
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257481039701956
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925855432285833
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173090985915017
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173468773445189
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172510937070129
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173482418008799
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.91732577637933
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172842425615599
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173152669996891
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173450040002942
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173280059276345
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173284889065559
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173447117821272
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173357769698459
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173239157348857
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173333070223088
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172183179082027
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917325536065808
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173300727831616
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172799366649119
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173301457338023
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173380141897617
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172416680297749
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173299612990594
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173427265601989
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173310683668271
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173414341606383
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173309705664584
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172858115271928
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172928294577469
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173355120336653
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173204673860422
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172953260741649
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173468305000702
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173255118891123
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172375832443723
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172944622912131
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917305922966443
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172579718650139
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917274280745708
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173072230387015
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173243457845914
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173541586359404
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173106615375749
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917291954191704
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172434763367766
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172690854037185
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173455888319575
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172876753429655
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173079798545796
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172962885014043
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917343517569054
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294537512367618
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294146010162759
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294751826050497
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293595274067673
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292810887115083
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292989453744666
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293537453895735
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293740273413381
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293635360437554
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293600064566209
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293703459226834
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9291759941622338
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929359716545325
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293428044939241
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293150757856308
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292514892323217
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293297244941355
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293203121301485
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9291269717879443
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294651599425148
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294627529227845
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294721617265181
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929531456695195
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293153871944146
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293475687296158
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292723901051728
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293713492003715
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292843259290331
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292073348294624
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293414867738027
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292555054398057
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292943952298115
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293561365379388
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293077124558439
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293849491096253
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294156720658369
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294398268345327
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293946701041754
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929337076066857
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929346153388887
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9295080026999301
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293547732250659
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294352124245103
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292888005917117
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293839809958623
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294245427255795
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9291814368080638
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292886542047112
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293229475655186
+  },
+  {
+    "method": "scaled_lin_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929218672307552
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874566774261631
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874553319118763
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874130689811166
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874559102999241
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874498262773053
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887456652419184
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887453425614996
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874557367045376
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874488795907184
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874451297142769
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874577533103555
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874575977103804
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887447662255668
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887453644041897
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874331638641553
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874534147540868
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874395164067962
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874397968001931
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874472642418807
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874576167896975
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874556923332914
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874373759183253
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874548271671645
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874561394984879
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874575709928658
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887432409412734
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887456245838549
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874450650232096
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887455231849711
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874528343354301
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874542587074223
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874551566318726
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874504873931657
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874211586743906
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874255401198612
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874501880005684
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874516943742254
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887456537283974
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874576316334988
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874529506976601
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874570201345788
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874346074610251
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874543808256632
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874406869082362
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874566163668446
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874473138404941
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874564589204745
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874506597674963
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874536308603178
+  },
+  {
+    "n_components": 1,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874462830557537
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972328446271935
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971431392159629
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.897246802347883
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972265471210713
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972054565533008
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972384280584333
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972281549670537
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.897253983643746
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972572520577645
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972108866811696
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972560591823423
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972216698575907
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972620865651739
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972347807006202
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971990842570972
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972201505075723
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972444053334904
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971912718417548
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971852614841346
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.89720673382862
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972197441710836
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972194979386598
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972200609213612
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972848221807639
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.897197840094329
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971096910939247
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972329318932389
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972514210882024
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972239606862884
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972390423501222
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972400581464215
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972207174786138
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972228196777147
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971965586701058
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971723603794621
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972436581984102
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972393100365857
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.897138453426125
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972534098024797
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972443698959943
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971983427974123
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972353038402178
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972474890796799
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971758162105034
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972162803927043
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8971935431772459
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.897233226518003
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972314877696097
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972547979443717
+  },
+  {
+    "n_components": 2,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8972299932686637
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108242178979964
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107266916287596
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107891386393268
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107548813647122
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9110454134216536
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107298399299437
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109463772580949
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108973866770042
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108490359758514
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107193704134244
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107609112291545
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107401193092641
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108828260022579
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9106697176195694
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109515405665913
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108031528579399
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109683045518624
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109636919841471
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108611432235219
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107316898291122
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109340321144861
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107223957836443
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107074221924361
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108394768339114
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107312108800497
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107452618460007
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108496493065175
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108338203759877
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109212205029811
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.91067853877921
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108562643533449
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108486440347625
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109758100496506
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108061910575995
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109209731993976
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9106435835225881
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107911368598142
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109903943779197
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9106812478489075
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108949274099255
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109612825534346
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108416903614518
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109557913329246
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107564654567251
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109352104610465
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9107229901801848
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108137742898335
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9109374770168905
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.91079877414835
+  },
+  {
+    "n_components": 6,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9108911536740404
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119887704299223
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119661917870607
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119629462585094
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119189008646207
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120542376254485
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119595149355821
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.912085646508981
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120424127578193
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9118725997294702
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120136788747182
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119933119323855
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9117213128317506
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119062157193091
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120573349036147
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119827041132816
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9118650909010978
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.912033235317004
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120212028058138
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120540626508916
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119446100721886
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119896049632787
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119312902024423
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.911791853878578
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119555611344327
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.911939666661231
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9114836040499047
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120093599351548
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119462950906531
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120174878375008
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.911930988909503
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9118642950569877
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119947486209616
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9118659987846722
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119499708198608
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119726499786945
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119274971500642
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9116840133267223
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119538010519923
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9118051346589925
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9120141614736545
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119842483990992
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9118738622323862
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119316839621278
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9118207367108975
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9117501451748455
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119675152062366
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119284991319774
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9119714771938101
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9117378499307377
+  },
+  {
+    "n_components": 8,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9117471947792134
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.12915858272406755
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1299429801774924
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1292274588134087
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.12996450704132412
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1309900981441967
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13081289344142
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1305661290148169
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13074252858660496
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13090933795328052
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.130129128947978
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13050532488485955
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13070251152181078
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13070915233334435
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1309215346183762
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1304775899606393
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13111164318007507
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13048753159918336
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1302861703565522
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13069253576450357
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13083629029894972
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.12960269223395093
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.131178652098633
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13066059453123535
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13057784827642616
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13070135421652995
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13069358346254334
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13114861282947388
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1303016407747336
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13063698842205806
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13071041102443381
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13052454291713478
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13085518878713565
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1313155365013967
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.12984869749469952
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13074365375912567
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.1308751161758661
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13176662453664978
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13050272284940712
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13071814700551265
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13090580851915357
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13089169549563784
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13047530968863774
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13136169226667138
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13087114852194848
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13079171995405559
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13064999872618355
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13106514973881
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13038642501149478
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13024430827780664
+  },
+  {
+    "n_components": 11,
+    "method": "pca_linreg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.13115607405865015
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23519504410516512
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23448782903556908
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23556393713827528
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23469443974628157
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2347799441685572
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2343813498342625
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23593415021079955
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23569927543570812
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23545484870090516
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23469181952901508
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23543668299554799
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2350694500570143
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23501214191398845
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23591945226564914
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2344680791191558
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23539937366981922
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.235552805683222
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23477546496374224
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23620022308335153
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23498760524981332
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2352928320643094
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2333957295331771
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23479964908781414
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23386107415155366
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23502748210333202
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23457704487875908
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23451925159186449
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23568694011414082
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23506842656143334
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2348662398480421
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2355328456339213
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23543268358261915
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23421096550992015
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23453287213251728
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23489903368568843
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23438010903302775
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23519981835503923
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2341007356636322
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23492614790048472
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.234036868217114
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23481692356295758
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2344936812665881
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23470961990840156
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.235587860393082
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23629791005999345
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23390468377041018
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.2348705151840641
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23615789815673083
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23465065467537993
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.23578977177869476
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874070959240056
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874186627207087
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874417056859463
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874304320686759
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874511512131015
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874535680456044
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874309618440475
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874568933392747
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874545355260768
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887440996430649
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874576148385926
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887455590195958
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874552711431148
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874495755058794
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874444833304274
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874516553112859
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874544654403083
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.887453302150263
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874574355065787
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874390755470628
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874551145800902
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874435085991503
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874492144911394
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874542995334841
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874333479311034
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874309369097326
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874378153768547
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874202329023033
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874518711984245
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874514162718689
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874531957852076
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874476264663558
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874549106932318
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874567237144196
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874463646703172
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874494834960172
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874547095345573
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874307151600136
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874365116251465
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874453776210931
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874555659044976
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874389470266286
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874528968209283
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874320496657291
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874550745453252
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874567375447631
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874410490924706
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874502896275651
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874444794849001
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8874259071439616
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259250315566053
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9256935236014067
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258391757591509
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257508985802325
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258086914971149
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258959035669494
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258501812946658
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258425787268928
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258452838901485
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257918113162328
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9256665198151244
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258516445739666
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259648108665788
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258703854516067
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257820380005273
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259143811340302
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257368823500709
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258253510776867
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259471104013653
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257881853816352
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9260047355190277
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259522361977961
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259077778632412
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258829274637375
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259973554185369
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257859115463782
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257794108988118
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259852880928516
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257687754208203
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.925836115707438
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258599371457743
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258355764773674
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259435120184621
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257889516131849
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258897210011617
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258420282075279
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258740759312551
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257876280047473
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258866994538949
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258759665281723
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257712213713248
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259464166300744
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259131774511624
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9259840887788868
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258387164528172
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257960244921003
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257181849523903
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258721078882021
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9258076118807966
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9257402524785604
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173282315878556
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173000414676892
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173364183974396
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173008798795614
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173252125523923
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172969883271119
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917301093635825
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172705489742107
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917330752500563
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173178072443275
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917272591231737
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173375718502752
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173189631459778
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172823878760041
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173260681465071
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173220410506427
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173339474897213
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173333549513716
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172668214018486
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173290381250027
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173007343266983
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917315245215702
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917251722580214
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173360659548471
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172813577784926
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917312131212969
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173306783119762
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172982181979409
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173406411914328
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917329792517539
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173342486682147
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172846792339813
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172933198379429
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172915643835752
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172824319910429
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173352781468656
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172963441526361
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173136420383714
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173381774524342
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173317016849117
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173317754432276
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173532902840481
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173016561426219
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172851475543969
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173285401550957
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172888662163292
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172994239059371
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173263700152271
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173368195495389
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9172699272203159
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292526595090361
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293624922341077
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929374603155719
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292352910612974
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293741146453111
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294280329566508
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293133914754022
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9295356204540076
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294414818396926
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292931015485767
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294107135186065
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294353558553481
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293878528467927
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293050388003529
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9295083259099461
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294138796258634
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293427319699166
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293276341016564
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293701059958506
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294192140952504
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292969279521217
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293018908108315
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9295152984551923
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294019917429932
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293667294355743
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292191676563202
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293687691869355
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293745105422928
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929308342660525
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929430455983538
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294067165292793
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293805303476095
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9295301509261527
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292968613004285
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294657735377811
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.929402749343651
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293780554392859
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293540548272232
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294933228704717
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294027101051615
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292031654623936
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293924886660322
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294449924201865
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293350389383477
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294454685175472
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9295045905389696
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292965397404606
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9294047751014745
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9292937280107836
+  },
+  {
+    "method": "scaled_ridge_reg",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9293756594752872
+  }
+]

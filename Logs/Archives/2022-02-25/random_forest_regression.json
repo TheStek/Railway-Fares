@@ -1,0 +1,569 @@
+[
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9797306928806481
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9777992972482932
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9783137770663568
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9782522603523499
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9794658635143023
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9786790972046472
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9785969749372017
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.977902758220004
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9778203659582317
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9784979558446768
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9786794301436127
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9793571695870813
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9778813078546774
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9784029655047785
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.978370350379945
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.97835823687168
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9787275702245114
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9786055720852357
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9792335227261545
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9788212637961762
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8959431613754612
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8951432423003391
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8927385130209586
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.896838730850183
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8915121561904263
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8920913596180152
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8954165999140363
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8952360908417416
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8917255599032902
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8954739817342989
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8906013627633901
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8945117418851327
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.89434480790472
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8960987589265784
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8938596272844138
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.891080494680037
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8918138797905597
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8920535664660278
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8948383743842991
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8908351662275783
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8271684857599997
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8257099035892101
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8170341383067398
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8267075329255543
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8330258366345938
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8140538275156128
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8265332169533697
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.823349396712094
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8226806478016584
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8259895949868028
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.833582287759977
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8283269142125621
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8297057863017389
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8306769473458344
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8158702417637722
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8245195733612847
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8202330977349467
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8212953934555728
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8206242426171482
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.8235881607029536
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9439183251689812
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9429805510514201
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9414997087782899
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9429763589400821
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9423003287635219
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9443945019442774
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9424949183957944
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9428311220041378
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9429104264148792
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9427521578325492
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9435863694925212
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.942354363532085
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9443329078855652
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9437231117900379
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9417153196629293
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9434615721040462
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.942636529605299
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9419602566270512
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9429670235776736
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9432441293958563
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.977070372067629
+  }
+]

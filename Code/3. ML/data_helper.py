@@ -78,9 +78,23 @@ def append_to_json(data, path):
     with open(path, 'w') as f:
         f.write(json.dumps(new_data, indent = 2))
 
-def fit_and_evaluate_ML_model(method, method_name, dataset, subset = "full", log_name = None, *args, **kwargs):
+def fit_and_evaluate_ML_model(method, method_name, dataset, subset = "full", log_name = None, iterate = True, *args, **kwargs):
+    
+    if iterate:
+        data = dataset["train"][subset].copy()
+        data["y"] = dataset["train"]["y"]
+
+        data = data.sample(frac = 0.5)
+
+        X_train = data.drop('y', axis = 1)
+        y_train = np.ravel(data[['y']])
+
+    else:
+        X_train = dataset["train"][subset]
+        y_train = dataset["train"]["y"]
+
     model = method(*args, **kwargs)
-    model.fit(dataset["train"][subset], dataset["train"]["y"])
+    model.fit(X_train, y_train)
     val_score = model.score(dataset["val"][subset], dataset["val"]["y"])
 
     if log_name == -1:
@@ -116,7 +130,8 @@ def check_on_all_data(method, method_name, log_name, *args, **kwargs):
     for dataset in datasets:
         for subset in subsets:
             try:
-                fit_and_evaluate_ML_model(method, method_name, dataset, subset = subset, log_name = log_name, *args, **kwargs)
+                fit_and_evaluate_ML_model(method, method_name, dataset, subset = subset,
+                 log_name = log_name, *args, **kwargs)
             except Exception as e:
                 with open(project_path + "/Logs/errors.txt", 'a') as log:
                     log.write(", ".join((method_name, dataset["name"], subset, str(e))) + "\n\n")
@@ -124,13 +139,17 @@ def check_on_all_data(method, method_name, log_name, *args, **kwargs):
 
 # TODO:: make the error log look a bit more readable (change the newlines)
                     
-def check_on_dataset(method, method_name, log_name, dataset = dataset_in, *args, **kwargs):
+def check_on_dataset(method, method_name, log_name, dataset = dataset_in, iterations = 50, *args, **kwargs):
     for subset in subsets:
-        try:
-            fit_and_evaluate_ML_model(method, method_name, dataset, subset = subset, log_name = log_name, *args, **kwargs)
-        except Exception as e:
-            with open(project_path + "/Logs/errors.txt", 'a') as log:
-                log.write("\n,".join((method_name, dataset["name"], subset, str(e))))
+        for i in range(iterations):
+            print(f"Subset: {subset}, {i+1}/{iterations}", end = '\r')
+            try:
+                fit_and_evaluate_ML_model(method, method_name, dataset, subset = subset, 
+                    log_name = log_name, iterate = iterations != 1, *args, **kwargs)
+            except Exception as e:
+                with open(project_path + "/Logs/errors.txt", 'a') as log:
+                    log.write("\n,".join((method_name, dataset["name"], subset, str(e))))
+        print("")
 
 
 

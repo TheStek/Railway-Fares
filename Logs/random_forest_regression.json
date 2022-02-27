@@ -152,5 +152,601 @@
     "dataset": "intermediate zone",
     "subset": "full",
     "val_score": 0.9774673107586411
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9775489101470035
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9768853825147891
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9772225240124562
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9763949015144472
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9766938414025879
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9766691797246818
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9768429380111806
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.977126185773137
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9421798002548674
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9436261562597079
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9434654405706746
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.943974109150738
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9429316567044977
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9428816271328088
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9430999201441347
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9434303668654314
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9430861495154899
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9423824937458883
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.893052603228709
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8912549409132838
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8958757257266758
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8983667502934531
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8970619475905359
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8966653049336725
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8977793480186762
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8924011129145976
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8925700211761796
+  },
+  {
+    "max_samples": 0.7,
+    "method": "rfr_scaled",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8926781827957136
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8938525245255259
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8944249819647011
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8930710862557013
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8913997538876902
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8954999224302773
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8926143759250335
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8954034016098111
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.895794269876988
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.895629832779882
+  },
+  {
+    "n_components": 1,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8952962187556363
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9180255618225833
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9181017571761151
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917671844688598
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9160313722971706
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.916868516233562
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9173912670987117
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9174093234733501
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9176157851698926
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.916671570829645
+  },
+  {
+    "n_components": 2,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.917191543178827
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9789534180255227
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9800823122952502
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9779769371375233
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9777230521794512
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9775124136739567
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9787160330605111
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.979185488454368
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9793133510203889
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9800531851904004
+  },
+  {
+    "n_components": 6,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9789092357404171
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9770531221028349
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9797603394740114
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9791033191469994
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9783781702669124
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9785279530758272
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9778878077001928
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9784022334863666
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9792023849641813
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9781070388512644
+  },
+  {
+    "n_components": 8,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9787716719999902
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.4926307500464838
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5079096084533667
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5048824341794629
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5140556448805431
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5125654063858719
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5098687881379419
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5094103406810129
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5140537770072966
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.506638278053976
+  },
+  {
+    "n_components": 11,
+    "max_samples": 0.7,
+    "method": "pca_rfr",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5118691540630842
   }
 ]

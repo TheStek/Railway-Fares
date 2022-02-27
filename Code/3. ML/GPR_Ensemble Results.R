@@ -17,3 +17,20 @@ gpr %>%
          ci_width = qt(1 - (0.025 / 2), n.val_score - 1) * se.val_score,
          lower.ci.val_score = mean.val_score - ci_width,
          upper.ci.val_score = mean.val_score + ci_width)
+
+
+subset_mapping <- tibble(
+  code_name = c('dist', 'dist_time', 'dist_remoteness', 'full', 'simd'),
+  name = c('Distance', 'Distance + Time', 'Distance + Remoteness', 'Full', 'SIMD'))
+
+ggplot(data = gpr %>%
+         filter(val_score > 0.7) %>%
+         inner_join(subset_mapping, by = c("subset" = "code_name")) %>%
+         mutate(desc = ifelse(grepl("pca", method), paste("PCA", name, sep = " - "), name))
+       )+
+  geom_boxplot(aes(x = reorder(desc, val_score), y = val_score), color = "black", fill = "blue")+
+  coord_flip()+
+  xlab("Data Subset")+
+  ylab("Validation Score")
+
+  

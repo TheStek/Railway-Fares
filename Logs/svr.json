@@ -1,0 +1,2502 @@
+[
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7737449699312414
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7778920809824672
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7717455993428936
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7765362738665251
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7697319613120952
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7697459667558005
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7742133913847082
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7726903435854622
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7721237579975604
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7743455135319204
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.772106043639072
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7717381658399154
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7701867747234985
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7724568200285731
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7698380216502033
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7753262027732019
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7701795488377774
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7729125765657046
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7734215911592253
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7666079051306611
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7744355754641044
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.773554994466654
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7782556188760265
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7671927222512516
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.7717729809131572
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8771612357861136
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.877429665316998
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8777121043051821
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8785296477730081
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8769486162570248
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8781429449772047
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8793513863086503
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8736480834372042
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8751098157188946
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8758599665200666
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.877791171478183
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8795492102133768
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8775765496210207
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8781446755462639
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8766833366876284
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8778974585688691
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.877701509901444
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8764478065042115
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8786998414142237
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8789360304094159
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8773216424074299
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8792827836787881
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8758458286729398
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8791748814242976
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.8803015027326375
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05117570043677766
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05915442735053367
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05932784194007845
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05530438374622426
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.053706409167525004
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.06151812914983845
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.06207253175886396
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.060975692026777106
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.06007925076555376
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05861523196447738
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.06508444698672644
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.058229609349182865
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05649511028670884
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.057231457440518385
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05969993005097418
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05490745083459281
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05245645581873204
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05753576089629109
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05225525429080924
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.0591482333655442
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.06053697223539545
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05981382488579212
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.06163465407799118
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.056932228913248006
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.05921314218148144
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8665798306597372
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.867926778189953
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8646138741921487
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8678736571637914
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8681679277397951
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8647582432521455
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8632174851185003
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8680810678120544
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8684152124569393
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8665389228864617
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8669713139296188
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.868346920953959
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8681100492121548
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8661071441765281
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8653720902224491
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8676756011973824
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.866834748748429
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8657549523567774
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8683686545502518
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8648715695540162
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8657462624662408
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8687628471811123
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8669965357639067
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8641776608625267
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.8688731860181637
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8762682659950415
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8765830257617236
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8753561383889688
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8747147066941524
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.878702934170523
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8746030796924814
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8765031251809378
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8767226282894572
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8771610336536144
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8752065261262647
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8745651368811976
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8767363257572818
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8757498525815244
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8753569409233173
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8755540194019069
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8755455001563571
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8764529266320505
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.875173299819571
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8764820554682243
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8762121407666533
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.875816964683809
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8723361653678614
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8742015519455714
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8729811304778178
+  },
+  {
+    "kernel": "linear",
+    "C": 0.1,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_linear",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.8765970419349188
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8902133469936478
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8910516570140419
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8909975219598458
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8912030572881542
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8906734261984202
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8916071785798159
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8902533193907571
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8912214902069737
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8916181855348418
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.891399352045274
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8914030958758867
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8907248405088087
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8910463826508629
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.891487919770582
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8908466729737109
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.89030343723062
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8914482368519505
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8905992226173626
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8918183553204904
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8902888174062442
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8912224160997533
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8912320058631844
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8916184369101635
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8914201591151039
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist",
+    "val_score": 0.8908843209159982
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9717619912038002
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9711971954531099
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9715721915822603
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9718913475957629
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9723570460240958
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9720302294592745
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9715840257174135
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9717867243556059
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9718447494830419
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.972102436091039
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9722606109056214
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.972092407097829
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9719427457143645
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9719581117081525
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9709103961676068
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9716392482539417
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9719663072924096
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9725671266188844
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9719943529692773
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9716500191338222
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.971530040129396
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9713041919046265
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.97165494372787
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9723438674055128
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "full",
+    "val_score": 0.9717953474191092
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5226625290240239
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5146323428163635
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5194413768524104
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5225680646073256
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5166510297371898
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5217051304968614
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5120478336713947
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5216455978043442
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.516476784195807
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5124266216583481
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5109797084915396
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5161881623073141
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5108999805869092
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5212723611571345
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5269556162536074
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5139846316995506
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5191321859243905
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5106755768118809
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5135100236302104
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5179093769299088
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5145197522753902
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5138001755064587
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5217218438331646
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5228690306692512
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "simd",
+    "val_score": 0.5237509364264035
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9373743514342336
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9369697514624894
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9365481548633585
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9366601192450065
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9364756744891686
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9373473371233225
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9364334405394629
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9370426826367997
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9377177955263939
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9371322466226438
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9370138241523893
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9366461939780691
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9365401846867774
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9364323137722561
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.937266567451167
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9368772280779136
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9367330146276771
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9372671244374973
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9369486975074434
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9365077426800117
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9365336994470272
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9369198543043211
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.936800072072032
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.9366064920000856
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_time",
+    "val_score": 0.937409616689639
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9727486482655844
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9724365494671202
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9728856623076055
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9732985193975263
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9730824097463535
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9723339758373741
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9720598175188673
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9725773087127162
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9725531460432385
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9733289995249423
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9727040054818407
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9730019024150371
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9729590772346475
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9725242688756801
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9725350948132324
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9725945493270509
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9730196919651978
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9720933956749868
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9735340664330381
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9728347429963318
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9727385910627384
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9727878085056253
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.972908801648407
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9727812375528125
+  },
+  {
+    "kernel": "rbf",
+    "C": 1000,
+    "max_iter": 1000000.0,
+    "epsilon": 0.5,
+    "method": "svr_rbf",
+    "dataset": "intermediate zone",
+    "subset": "dist_remoteness",
+    "val_score": 0.9718129469501234
+  }
+]

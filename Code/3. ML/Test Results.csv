@@ -1,0 +1,426 @@
+Test Score,Model,Subset,n
+0.9200961174342365,Linear Regression,dist_remoteness,25
+0.9201116580697455,Linear Regression,dist_remoteness,25
+0.920105907047624,Linear Regression,dist_remoteness,25
+0.9202168266032673,Linear Regression,dist_remoteness,25
+0.9201926131819359,Linear Regression,dist_remoteness,25
+0.9201579446390127,Linear Regression,dist_remoteness,25
+0.9201594670965977,Linear Regression,dist_remoteness,25
+0.9199406831627276,Linear Regression,dist_remoteness,25
+0.920152142613788,Linear Regression,dist_remoteness,25
+0.9199719112941026,Linear Regression,dist_remoteness,25
+0.9200932768176086,Linear Regression,dist_remoteness,25
+0.9201406264220172,Linear Regression,dist_remoteness,25
+0.9201232581858849,Linear Regression,dist_remoteness,25
+0.9200739106103052,Linear Regression,dist_remoteness,25
+0.9199934295298962,Linear Regression,dist_remoteness,25
+0.9200888936425605,Linear Regression,dist_remoteness,25
+0.9201761211234223,Linear Regression,dist_remoteness,25
+0.9200380297479452,Linear Regression,dist_remoteness,25
+0.9202080522963947,Linear Regression,dist_remoteness,25
+0.9201266146306429,Linear Regression,dist_remoteness,25
+0.9199967581816761,Linear Regression,dist_remoteness,25
+0.9202576483647543,Linear Regression,dist_remoteness,25
+0.920132237859242,Linear Regression,dist_remoteness,25
+0.920130723291801,Linear Regression,dist_remoteness,25
+0.9200912350636388,Linear Regression,dist_remoteness,25
+0.21927561811596885,Linear Regression,simd,25
+0.22250193416087938,Linear Regression,simd,25
+0.22186123272486702,Linear Regression,simd,25
+0.2223692457665558,Linear Regression,simd,25
+0.22173116347164612,Linear Regression,simd,25
+0.22099102058491493,Linear Regression,simd,25
+0.22454236859670773,Linear Regression,simd,25
+0.22309612887842645,Linear Regression,simd,25
+0.2226720118969462,Linear Regression,simd,25
+0.22220067298644164,Linear Regression,simd,25
+0.22170957702141436,Linear Regression,simd,25
+0.22280489635848733,Linear Regression,simd,25
+0.22289950874804898,Linear Regression,simd,25
+0.22178572524567408,Linear Regression,simd,25
+0.22100693814947103,Linear Regression,simd,25
+0.22341277666130432,Linear Regression,simd,25
+0.22284083614777628,Linear Regression,simd,25
+0.22176240065339425,Linear Regression,simd,25
+0.2228356355074218,Linear Regression,simd,25
+0.22224263482144457,Linear Regression,simd,25
+0.22184332188634337,Linear Regression,simd,25
+0.22349043035995786,Linear Regression,simd,25
+0.22356101265404194,Linear Regression,simd,25
+0.2224315774331278,Linear Regression,simd,25
+0.2232949383045565,Linear Regression,simd,25
+0.9232528816687171,Linear Regression,full,25
+0.9232291714727406,Linear Regression,full,25
+0.9232387832892377,Linear Regression,full,25
+0.923181260786473,Linear Regression,full,25
+0.9234096862595806,Linear Regression,full,25
+0.9234318187460995,Linear Regression,full,25
+0.9232184825611861,Linear Regression,full,25
+0.9233187184377568,Linear Regression,full,25
+0.9234301145222529,Linear Regression,full,25
+0.9232517637677425,Linear Regression,full,25
+0.9232266843257754,Linear Regression,full,25
+0.9233223874987881,Linear Regression,full,25
+0.9231397957144849,Linear Regression,full,25
+0.9233797359579365,Linear Regression,full,25
+0.9234784267923487,Linear Regression,full,25
+0.9234530053051655,Linear Regression,full,25
+0.9233827643486963,Linear Regression,full,25
+0.9233146059879096,Linear Regression,full,25
+0.923336237368621,Linear Regression,full,25
+0.923226754664849,Linear Regression,full,25
+0.9231670017465105,Linear Regression,full,25
+0.9233315464105555,Linear Regression,full,25
+0.9233100229736827,Linear Regression,full,25
+0.9231531167300182,Linear Regression,full,25
+0.9233717983610371,Linear Regression,full,25
+0.9109469559362288,Linear Regression,dist_time,25
+0.9109081231200877,Linear Regression,dist_time,25
+0.9108947265184725,Linear Regression,dist_time,25
+0.9109716549092279,Linear Regression,dist_time,25
+0.9107871745814131,Linear Regression,dist_time,25
+0.9108279874175851,Linear Regression,dist_time,25
+0.9109706208343176,Linear Regression,dist_time,25
+0.9110640649522896,Linear Regression,dist_time,25
+0.9107587031410256,Linear Regression,dist_time,25
+0.9108662879160165,Linear Regression,dist_time,25
+0.9108042839637887,Linear Regression,dist_time,25
+0.9108402352042041,Linear Regression,dist_time,25
+0.9110713256215989,Linear Regression,dist_time,25
+0.9107275645974408,Linear Regression,dist_time,25
+0.9109336057160854,Linear Regression,dist_time,25
+0.9109203317300707,Linear Regression,dist_time,25
+0.9108197475323616,Linear Regression,dist_time,25
+0.9108957449299003,Linear Regression,dist_time,25
+0.9108924994211283,Linear Regression,dist_time,25
+0.9109501229731888,Linear Regression,dist_time,25
+0.9108889171437008,Linear Regression,dist_time,25
+0.9106997951345629,Linear Regression,dist_time,25
+0.9109173133058084,Linear Regression,dist_time,25
+0.9109868128817005,Linear Regression,dist_time,25
+0.9108725288815843,Linear Regression,dist_time,25
+0.8867217241713549,Linear Regression,dist,25
+0.8867351003160182,Linear Regression,dist,25
+0.886720523176021,Linear Regression,dist,25
+0.8867564302834222,Linear Regression,dist,25
+0.8867365205908209,Linear Regression,dist,25
+0.886742869046857,Linear Regression,dist,25
+0.8867549004983868,Linear Regression,dist,25
+0.8867132012850829,Linear Regression,dist,25
+0.8867541729246093,Linear Regression,dist,25
+0.8867447264285775,Linear Regression,dist,25
+0.8867565739055326,Linear Regression,dist,25
+0.8867528520232443,Linear Regression,dist,25
+0.8867615863451881,Linear Regression,dist,25
+0.8867539936546014,Linear Regression,dist,25
+0.8867397649170561,Linear Regression,dist,25
+0.886714235826773,Linear Regression,dist,25
+0.8867425725743062,Linear Regression,dist,25
+0.8867496951626035,Linear Regression,dist,25
+0.8866819255530914,Linear Regression,dist,25
+0.8867550466082232,Linear Regression,dist,25
+0.8867535629832184,Linear Regression,dist,25
+0.8867450843235751,Linear Regression,dist,25
+0.8867501172883551,Linear Regression,dist,25
+0.8867616314272574,Linear Regression,dist,25
+0.886740988791444,Linear Regression,dist,25
+0.9768594785199912,Random Forest Regression,dist_remoteness,25
+0.9770495438486343,Random Forest Regression,dist_remoteness,25
+0.9771042675231453,Random Forest Regression,dist_remoteness,25
+0.9767118125501043,Random Forest Regression,dist_remoteness,25
+0.976270800132808,Random Forest Regression,dist_remoteness,25
+0.9765036399832686,Random Forest Regression,dist_remoteness,25
+0.9768808308584104,Random Forest Regression,dist_remoteness,25
+0.9772240689463003,Random Forest Regression,dist_remoteness,25
+0.9772471650282327,Random Forest Regression,dist_remoteness,25
+0.976540532375582,Random Forest Regression,dist_remoteness,25
+0.977337930540319,Random Forest Regression,dist_remoteness,25
+0.9778122617876008,Random Forest Regression,dist_remoteness,25
+0.9766777844031214,Random Forest Regression,dist_remoteness,25
+0.9766539919111502,Random Forest Regression,dist_remoteness,25
+0.9774087673441495,Random Forest Regression,dist_remoteness,25
+0.9770343871465144,Random Forest Regression,dist_remoteness,25
+0.9775885852559401,Random Forest Regression,dist_remoteness,25
+0.9767151207550224,Random Forest Regression,dist_remoteness,25
+0.9776884084961368,Random Forest Regression,dist_remoteness,25
+0.9775718675057206,Random Forest Regression,dist_remoteness,25
+0.9777446756255682,Random Forest Regression,dist_remoteness,25
+0.9767672323188409,Random Forest Regression,dist_remoteness,25
+0.9773864712006817,Random Forest Regression,dist_remoteness,25
+0.977447028616769,Random Forest Regression,dist_remoteness,25
+0.9774188268500709,Random Forest Regression,dist_remoteness,25
+0.8246690960209447,Random Forest Regression,simd,25
+0.8326795854325548,Random Forest Regression,simd,25
+0.8299253061212832,Random Forest Regression,simd,25
+0.8246596057858289,Random Forest Regression,simd,25
+0.834582453195814,Random Forest Regression,simd,25
+0.8332756049488346,Random Forest Regression,simd,25
+0.8298088260403121,Random Forest Regression,simd,25
+0.8290837957161517,Random Forest Regression,simd,25
+0.8334426024730012,Random Forest Regression,simd,25
+0.8280216608522384,Random Forest Regression,simd,25
+0.835362449735167,Random Forest Regression,simd,25
+0.824529698090219,Random Forest Regression,simd,25
+0.8261327597461816,Random Forest Regression,simd,25
+0.8353205175588077,Random Forest Regression,simd,25
+0.8394469185571507,Random Forest Regression,simd,25
+0.8265674427692413,Random Forest Regression,simd,25
+0.8349868980434157,Random Forest Regression,simd,25
+0.8293434140802722,Random Forest Regression,simd,25
+0.8250545153923085,Random Forest Regression,simd,25
+0.8264529833725581,Random Forest Regression,simd,25
+0.829049590195916,Random Forest Regression,simd,25
+0.8358138258721572,Random Forest Regression,simd,25
+0.8401935664237871,Random Forest Regression,simd,25
+0.8308375988630339,Random Forest Regression,simd,25
+0.8310150020872014,Random Forest Regression,simd,25
+0.9762135322603885,Random Forest Regression,full,25
+0.9762161967398633,Random Forest Regression,full,25
+0.9769221050063455,Random Forest Regression,full,25
+0.9773600322428662,Random Forest Regression,full,25
+0.9756400882286321,Random Forest Regression,full,25
+0.9759471786172261,Random Forest Regression,full,25
+0.9764810203696415,Random Forest Regression,full,25
+0.9762189647760882,Random Forest Regression,full,25
+0.9764584136197725,Random Forest Regression,full,25
+0.9750632312393471,Random Forest Regression,full,25
+0.9757465240790615,Random Forest Regression,full,25
+0.9768122544446063,Random Forest Regression,full,25
+0.9768033165756655,Random Forest Regression,full,25
+0.9768893173216577,Random Forest Regression,full,25
+0.9767830436654469,Random Forest Regression,full,25
+0.9767636390353969,Random Forest Regression,full,25
+0.9756885470067472,Random Forest Regression,full,25
+0.9765725083616728,Random Forest Regression,full,25
+0.9758795008482108,Random Forest Regression,full,25
+0.9766008411075349,Random Forest Regression,full,25
+0.9766211068678342,Random Forest Regression,full,25
+0.9764258347344906,Random Forest Regression,full,25
+0.9757857778356013,Random Forest Regression,full,25
+0.9762527978159554,Random Forest Regression,full,25
+0.9766856809962249,Random Forest Regression,full,25
+0.9443904499359989,Random Forest Regression,dist_time,25
+0.944013011659233,Random Forest Regression,dist_time,25
+0.9436736193443027,Random Forest Regression,dist_time,25
+0.94339966229422,Random Forest Regression,dist_time,25
+0.9433850261463154,Random Forest Regression,dist_time,25
+0.9435140612620132,Random Forest Regression,dist_time,25
+0.942750389737633,Random Forest Regression,dist_time,25
+0.9441051276285721,Random Forest Regression,dist_time,25
+0.9428126656399011,Random Forest Regression,dist_time,25
+0.9434726028540609,Random Forest Regression,dist_time,25
+0.9418088111570008,Random Forest Regression,dist_time,25
+0.9436066370565834,Random Forest Regression,dist_time,25
+0.9436096290498575,Random Forest Regression,dist_time,25
+0.9447736046378385,Random Forest Regression,dist_time,25
+0.9428422629303674,Random Forest Regression,dist_time,25
+0.9427164815472405,Random Forest Regression,dist_time,25
+0.9433307892286023,Random Forest Regression,dist_time,25
+0.9426989336352516,Random Forest Regression,dist_time,25
+0.9438075906024783,Random Forest Regression,dist_time,25
+0.943856499164955,Random Forest Regression,dist_time,25
+0.9430623889905911,Random Forest Regression,dist_time,25
+0.9438998592975968,Random Forest Regression,dist_time,25
+0.9432929360515876,Random Forest Regression,dist_time,25
+0.9443688942500968,Random Forest Regression,dist_time,25
+0.9433191735650904,Random Forest Regression,dist_time,25
+0.9094148379708555,Random Forest Regression,dist,25
+0.9104236130850717,Random Forest Regression,dist,25
+0.9125698780170428,Random Forest Regression,dist,25
+0.9091426065379502,Random Forest Regression,dist,25
+0.913734207498105,Random Forest Regression,dist,25
+0.911476630485661,Random Forest Regression,dist,25
+0.9109656441439744,Random Forest Regression,dist,25
+0.914444559460041,Random Forest Regression,dist,25
+0.9092068846147233,Random Forest Regression,dist,25
+0.9125494516809302,Random Forest Regression,dist,25
+0.9119458462264208,Random Forest Regression,dist,25
+0.9129786891072117,Random Forest Regression,dist,25
+0.9113379832120506,Random Forest Regression,dist,25
+0.9077849144929967,Random Forest Regression,dist,25
+0.9104441515920825,Random Forest Regression,dist,25
+0.9135007415334975,Random Forest Regression,dist,25
+0.9110724857651958,Random Forest Regression,dist,25
+0.9101972436676002,Random Forest Regression,dist,25
+0.9122180045292531,Random Forest Regression,dist,25
+0.9085746955852189,Random Forest Regression,dist,25
+0.9099842665245486,Random Forest Regression,dist,25
+0.9076663794335084,Random Forest Regression,dist,25
+0.9089471327506694,Random Forest Regression,dist,25
+0.9117010811390102,Random Forest Regression,dist,25
+0.9126231934710085,Random Forest Regression,dist,25
+0.9306190521212034,Gaussian Process Regression,dist_remoteness,10
+0.9338907752325064,Gaussian Process Regression,dist_remoteness,10
+0.9391939316108676,Gaussian Process Regression,dist_remoteness,10
+0.9340963025075673,Gaussian Process Regression,dist_remoteness,10
+0.9339092482570753,Gaussian Process Regression,dist_remoteness,10
+0.9380158688284486,Gaussian Process Regression,dist_remoteness,10
+0.9364997320698794,Gaussian Process Regression,dist_remoteness,10
+0.9283323730695241,Gaussian Process Regression,dist_remoteness,10
+0.9370873077150478,Gaussian Process Regression,dist_remoteness,10
+0.9344756642481872,Gaussian Process Regression,dist_remoteness,10
+0.365116115575848,Gaussian Process Regression,simd,10
+0.27687162898065143,Gaussian Process Regression,simd,10
+0.3893853795444817,Gaussian Process Regression,simd,10
+0.32665288306319673,Gaussian Process Regression,simd,10
+0.4052906461475716,Gaussian Process Regression,simd,10
+0.3659147950415047,Gaussian Process Regression,simd,10
+0.3430770165138777,Gaussian Process Regression,simd,10
+0.3859218630046709,Gaussian Process Regression,simd,10
+0.35135899407374704,Gaussian Process Regression,simd,10
+0.4086864709979554,Gaussian Process Regression,simd,10
+0.8790889477594793,Gaussian Process Regression,full,10
+0.8812142933573965,Gaussian Process Regression,full,10
+0.8825499079966689,Gaussian Process Regression,full,10
+0.8869539354864676,Gaussian Process Regression,full,10
+0.8857627918957535,Gaussian Process Regression,full,10
+0.8806247441948485,Gaussian Process Regression,full,10
+0.8847662484367668,Gaussian Process Regression,full,10
+0.884254497557884,Gaussian Process Regression,full,10
+0.8842549492307874,Gaussian Process Regression,full,10
+0.8782564841464463,Gaussian Process Regression,full,10
+0.9070179325614656,Gaussian Process Regression,dist_time,10
+0.9073434806643014,Gaussian Process Regression,dist_time,10
+0.9062831836549586,Gaussian Process Regression,dist_time,10
+0.90991408542979,Gaussian Process Regression,dist_time,10
+0.9102163421572904,Gaussian Process Regression,dist_time,10
+0.9064137446412961,Gaussian Process Regression,dist_time,10
+0.9059918428339997,Gaussian Process Regression,dist_time,10
+0.9018620199416393,Gaussian Process Regression,dist_time,10
+0.9077285457317275,Gaussian Process Regression,dist_time,10
+0.9070218033528175,Gaussian Process Regression,dist_time,10
+0.9098115682398425,Gaussian Process Regression,dist,10
+0.9087314312639442,Gaussian Process Regression,dist,10
+0.90607469155119,Gaussian Process Regression,dist,10
+0.9150687186897716,Gaussian Process Regression,dist,10
+0.909958724705859,Gaussian Process Regression,dist,10
+0.9147509343754889,Gaussian Process Regression,dist,10
+0.9013719612432223,Gaussian Process Regression,dist,10
+0.9085674152939058,Gaussian Process Regression,dist,10
+0.9130905981712711,Gaussian Process Regression,dist,10
+0.9101667069248947,Gaussian Process Regression,dist,10
+0.9710058448835903,Support Vector Regression,dist_remoteness,25
+0.9712992361367168,Support Vector Regression,dist_remoteness,25
+0.9709534751496282,Support Vector Regression,dist_remoteness,25
+0.971013751788754,Support Vector Regression,dist_remoteness,25
+0.9711389934156114,Support Vector Regression,dist_remoteness,25
+0.9708047645906863,Support Vector Regression,dist_remoteness,25
+0.9712367611178936,Support Vector Regression,dist_remoteness,25
+0.9713943845607941,Support Vector Regression,dist_remoteness,25
+0.9713743981912197,Support Vector Regression,dist_remoteness,25
+0.9712362597729409,Support Vector Regression,dist_remoteness,25
+0.9713932195194038,Support Vector Regression,dist_remoteness,25
+0.9717779766463769,Support Vector Regression,dist_remoteness,25
+0.9711146065351343,Support Vector Regression,dist_remoteness,25
+0.9712309356426337,Support Vector Regression,dist_remoteness,25
+0.9713305371019676,Support Vector Regression,dist_remoteness,25
+0.9710861385893087,Support Vector Regression,dist_remoteness,25
+0.9706930625185232,Support Vector Regression,dist_remoteness,25
+0.9708094700680895,Support Vector Regression,dist_remoteness,25
+0.9712254449013783,Support Vector Regression,dist_remoteness,25
+0.9715335816274348,Support Vector Regression,dist_remoteness,25
+0.9712800423435529,Support Vector Regression,dist_remoteness,25
+0.9710961409321366,Support Vector Regression,dist_remoteness,25
+0.9709577428388441,Support Vector Regression,dist_remoteness,25
+0.9711366554986555,Support Vector Regression,dist_remoteness,25
+0.9711097693191616,Support Vector Regression,dist_remoteness,25
+0.5475568474496275,Support Vector Regression,simd,25
+0.5406360870012793,Support Vector Regression,simd,25
+0.5459640432758384,Support Vector Regression,simd,25
+0.5447839877372491,Support Vector Regression,simd,25
+0.550072708391385,Support Vector Regression,simd,25
+0.5488705003688541,Support Vector Regression,simd,25
+0.5450950941673749,Support Vector Regression,simd,25
+0.5486717076774801,Support Vector Regression,simd,25
+0.5471495921791989,Support Vector Regression,simd,25
+0.5499406130252704,Support Vector Regression,simd,25
+0.5519258939432947,Support Vector Regression,simd,25
+0.5484876993959588,Support Vector Regression,simd,25
+0.5450260171734258,Support Vector Regression,simd,25
+0.5453808434953007,Support Vector Regression,simd,25
+0.5491847552568445,Support Vector Regression,simd,25
+0.5461689854720132,Support Vector Regression,simd,25
+0.5510964357950046,Support Vector Regression,simd,25
+0.5488711152600758,Support Vector Regression,simd,25
+0.5476613382449611,Support Vector Regression,simd,25
+0.546304867355983,Support Vector Regression,simd,25
+0.5506048207587975,Support Vector Regression,simd,25
+0.5429761648162209,Support Vector Regression,simd,25
+0.5493266022275741,Support Vector Regression,simd,25
+0.5435014508639224,Support Vector Regression,simd,25
+0.555804886037347,Support Vector Regression,simd,25
+0.9684087657481937,Support Vector Regression,full,25
+0.9679226958453294,Support Vector Regression,full,25
+0.9682587113319518,Support Vector Regression,full,25
+0.9693360465213783,Support Vector Regression,full,25
+0.9691352569509968,Support Vector Regression,full,25
+0.9685234645877018,Support Vector Regression,full,25
+0.9686935107398589,Support Vector Regression,full,25
+0.9688653958967016,Support Vector Regression,full,25
+0.9687552244129266,Support Vector Regression,full,25
+0.9698145929732916,Support Vector Regression,full,25
+0.9686414244943073,Support Vector Regression,full,25
+0.9694202423070745,Support Vector Regression,full,25
+0.9684164918415405,Support Vector Regression,full,25
+0.9687127796955274,Support Vector Regression,full,25
+0.9687234006413796,Support Vector Regression,full,25
+0.9685894498958227,Support Vector Regression,full,25
+0.969504378154753,Support Vector Regression,full,25
+0.9692578994554688,Support Vector Regression,full,25
+0.9696943071465348,Support Vector Regression,full,25
+0.9682225036517031,Support Vector Regression,full,25
+0.9685134557781109,Support Vector Regression,full,25
+0.9696819077963778,Support Vector Regression,full,25
+0.9684820457083485,Support Vector Regression,full,25
+0.9690015527606598,Support Vector Regression,full,25
+0.9681233962267923,Support Vector Regression,full,25
+0.9365242054607137,Support Vector Regression,dist_time,25
+0.9365914449674493,Support Vector Regression,dist_time,25
+0.9364018619816759,Support Vector Regression,dist_time,25
+0.9363666432260944,Support Vector Regression,dist_time,25
+0.936234755040416,Support Vector Regression,dist_time,25
+0.9366068006223998,Support Vector Regression,dist_time,25
+0.936365507510202,Support Vector Regression,dist_time,25
+0.9363633482715346,Support Vector Regression,dist_time,25
+0.9360962830134463,Support Vector Regression,dist_time,25
+0.9363623503633399,Support Vector Regression,dist_time,25
+0.9369230970950233,Support Vector Regression,dist_time,25
+0.9365816159433551,Support Vector Regression,dist_time,25
+0.9367273184009903,Support Vector Regression,dist_time,25
+0.9363076372915891,Support Vector Regression,dist_time,25
+0.9363929099387149,Support Vector Regression,dist_time,25
+0.9367322592843221,Support Vector Regression,dist_time,25
+0.9365446956681682,Support Vector Regression,dist_time,25
+0.9364932530269585,Support Vector Regression,dist_time,25
+0.9362293053897484,Support Vector Regression,dist_time,25
+0.936602729394443,Support Vector Regression,dist_time,25
+0.9366079113516581,Support Vector Regression,dist_time,25
+0.9369644516948199,Support Vector Regression,dist_time,25
+0.9367203110936262,Support Vector Regression,dist_time,25
+0.9366651059192568,Support Vector Regression,dist_time,25
+0.936622047537551,Support Vector Regression,dist_time,25
+0.890379203060825,Support Vector Regression,dist,25
+0.8900304189376607,Support Vector Regression,dist,25
+0.89005369535479,Support Vector Regression,dist,25
+0.8902071762368551,Support Vector Regression,dist,25
+0.8904631104093526,Support Vector Regression,dist,25
+0.8902095370364074,Support Vector Regression,dist,25
+0.8908483958053617,Support Vector Regression,dist,25
+0.8898533641733501,Support Vector Regression,dist,25
+0.8905667692393413,Support Vector Regression,dist,25
+0.8902798133972619,Support Vector Regression,dist,25
+0.8907318776818157,Support Vector Regression,dist,25
+0.8906263587203189,Support Vector Regression,dist,25
+0.8904032791409189,Support Vector Regression,dist,25
+0.8904624225345865,Support Vector Regression,dist,25
+0.8906044498585126,Support Vector Regression,dist,25
+0.8902815696389028,Support Vector Regression,dist,25
+0.8899849725091329,Support Vector Regression,dist,25
+0.8907156609524217,Support Vector Regression,dist,25
+0.8902516750330739,Support Vector Regression,dist,25
+0.8902755441503293,Support Vector Regression,dist,25
+0.8902478111020187,Support Vector Regression,dist,25
+0.8900671177831729,Support Vector Regression,dist,25
+0.8901834979660127,Support Vector Regression,dist,25
+0.890135191686333,Support Vector Regression,dist,25
+0.8902643847003353,Support Vector Regression,dist,25

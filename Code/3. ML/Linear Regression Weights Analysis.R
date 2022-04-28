@@ -92,7 +92,7 @@ stats_mult <- model_stats %>%
 
 ggplot(data = stats_mult %>%
          filter(!is.na(estimate)) %>%
-         top_n(10, abs(estimate)) %>%
+         top_n(15, abs(estimate)) %>%
          mutate(FeatureSet = ifelse(term %in% c("Stops", "Distance", "(Intercept)", "Time.min") 
                                     | grepl("Dist_from", term), "Non-SIMD", "SIMD"))
 )+

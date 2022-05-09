@@ -3,6 +3,8 @@ library(maps)
 
 data_in <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Datasets\\data_in.csv")
 stations <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Data\\Cleansed Data\\station.csv")
+output_directory <- "C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/Visualisation/"
+
 
 data_with_speed <- data_in %>%
   mutate(Speed = Distance/(Time.min/60)) %>%
@@ -57,7 +59,16 @@ map_route_speed <- function(route_data){
   
 }
 
-map_route_speed(data_with_speed %>% filter(Speed > 160 | Speed < 5))
+slow_fast_routes <- map_route_speed(data_with_speed %>% filter(Speed > 160 | Speed < 5))
+
+
+ggsave(paste(output_directory, "Slowest and Fastest Routes (5, 160).pdf", sep = ''),
+       width = 6,
+       height = 4,
+       units = "in",
+       dpi = 500,
+       plot = slow_fast_routes)
+
 
 map_route_speed(data_with_speed %>% filter(Speed < 10))
 
@@ -65,10 +76,17 @@ map_route_speed(data_with_speed %>% filter(Speed < 10))
 ggplot(data = data_with_speed)+
   geom_histogram(aes(x=Speed), bins = 50)
 
-ggplot(data = data_with_speed)+
+speed_hist <- ggplot(data = data_with_speed)+
   geom_histogram(aes(x = Speed), bins = 150)+
   xlab("Speed/ km/h")+
   ylab("Number of Routes")
+
+ggsave(paste(output_directory, "Speed Histogram.pdf", sep = ''),
+       width = 6,
+       height = 4,
+       units = "in",
+       dpi = 300,
+       plot = speed_hist)
 
 data_with_speed %>% top_n(-10, Speed) %>% select(Speed)
 

@@ -2,6 +2,14 @@ library(tidyverse)
 require(gridExtra)
 
 data_in <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Datasets\\data_in.csv")
+output_directory <- "C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/Visualisation/"
+
+
+ggplot(data_in %>% 
+         sample_n(5000)) +
+  geom_point(aes(x = Distance, y = Time.min))+
+  xlab("Journey Distance /km")+
+  ylab("Journey Time /mins")
 
 
 dist_fare <-ggplot(data_in %>% 
@@ -10,12 +18,6 @@ dist_fare <-ggplot(data_in %>%
   xlab("Journey Distance /km")+
   ylab("Fare/£")
 
-
-ggplot(data_in %>% 
-         sample_n(5000)) +
-  geom_point(aes(x = Distance, y = Time.min))+
-  xlab("Journey Distance /km")+
-  ylab("Journey Time /mins")
 
 
 time_fare <- ggplot(data_in %>% 
@@ -26,12 +28,28 @@ time_fare <- ggplot(data_in %>%
 
 
 
-grid.arrange(dist_fare, time_fare, ncol=2)
+dist_time_fare <- grid.arrange(dist_fare, time_fare, ncol=2)
 
-ggplot(data_in %>% 
+ggsave(paste(output_directory, "Dist+Time-Fare.pdf", sep = ''),
+       width = 6,
+       height = 4,
+       units = "in",
+       dpi = 500,
+       plot = dist_time_fare)
+
+
+stops_fare <- ggplot(data_in %>% 
          sample_n(5000)) +
   geom_point(aes(x = Stops, y = FARE/100))+
+  xlab("Number of Intermediate Stops")+
   ylab("Fare/£")
+
+ggsave(paste(output_directory, "Stops-Fare.pdf", sep = ''),
+       width = 6,
+       height = 4,
+       units = "in",
+       dpi = 300,
+       plot = stops_fare)
 
 ggplot(data_in %>% 
          sample_n(5000)) +

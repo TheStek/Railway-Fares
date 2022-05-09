@@ -3,7 +3,7 @@ require(gridExtra)
 
 data_in <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Datasets\\data_in.csv")
 stations <- read.csv("C:\\Users\\User\\Documents\\4. Fourth Year\\Project\\Railway-Fares\\Data\\Cleansed Data\\station.csv")
-
+output_directory <- "C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/Visualisation/"
 
 data_with_speed <- data_in %>%
   mutate(Speed = Distance/(Time.min/60)) %>%
@@ -36,13 +36,21 @@ plot_data <- data_with_speed %>% sample_n(5000)
 
 summary(lm(Time.min~Distance, plot_data))
 
-ggplot(data = plot_data, mapping = aes(x=Distance, y = Time.min, label = ifelse(Time.min/Distance > 1.5 | Time.min/Distance < 0.7, Route, ""), color=FARE/100)) +
+distance_time <- ggplot(data = plot_data, mapping = aes(x=Distance, y = Time.min, label = ifelse(Time.min/Distance > 1.5 | Time.min/Distance < 0.7, Route, ""), color=FARE/100)) +
   geom_point()+
   xlab("Journey Distance /km")+
   ylab("Journey Time /mins")+
   labs(color = "Fare/£")+
   scale_colour_viridis_c()+
-  geom_text_repel(box.padding = 0.7, color = "black")
+  geom_text_repel(box.padding = 0.4, color = "black", size = 2.5, min.segment.length = 0)
+
+
+ggsave(paste(output_directory, "Distance-Time.pdf", sep = ''),
+       width = 6,
+       height = 4,
+       units = "in",
+       dpi = 500,
+       plot = distance_time)
 
 ggplot(plot_data, aes(x = Stops, y = FARE/100, label = ifelse(Stops > 10, Route, ""))) +
   geom_point()+

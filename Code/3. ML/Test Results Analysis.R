@@ -1,7 +1,7 @@
 library(tidyverse)
 
 data <- read.csv("C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Code/3. ML/Test Results.csv")
-
+output_directory <- "C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/Testing/"
 
 subset_mapping <- tibble(
   code_name = c('dist', 'dist_time', 'dist_remoteness', 'full', 'simd'),
@@ -21,14 +21,21 @@ data <- data %>%
 
 
 
-ggplot(data = data %>%
-         filter(Test.Score > 0.9))+
-  geom_boxplot(aes(x = reorder(Method, Test.Score), y = Test.Score, fill = Category, color = Category))+
+best_models <- ggplot(data = data %>%
+         filter(Test.Score > 0.8))+
+  geom_boxplot(aes(x = reorder(Method, Test.Score), y = Test.Score, fill = Category), lwd = 0.3,fatten = 0.3, outlier.size = 0.1)+
   coord_flip() +
   xlab("ML Model - Subset")+
   ylab("Test Score")+
-  theme(legend.position = "bottom",
-        text = element_text(size = 10))
+  theme(legend.position = "bottom")
+
+
+ggsave(paste(output_directory, "Test Results.pdf", sep = ''),
+       width = 6,
+       height = 5,
+       units = "in",
+       dpi = 500,
+       plot = best_models)
 
 
 ggplot(data = data %>%
@@ -75,6 +82,7 @@ ggplot(data = data %>%
          filter(Subset == "full" | Subset == "dist_remoteness")) +
   geom_boxplot(aes(x = reorder(name, Test.Score), y = Test.Score, fill = Category))+
   coord_flip()+
+  
   xlab("Subset")+
   ylab("Test Score")+
   theme(legend.position = "bottom",
@@ -101,3 +109,20 @@ full_remote_difference <- full_remote %>%
 
 full_remote_difference %>%
   select(Model, mean_score.x, mean_score.y, difference)
+
+dist_remote_full <- ggplot(data = data %>%
+         filter(Subset == "full" | Subset == "dist_remoteness")) +
+  geom_boxplot(aes(x = reorder(Model, Test.Score), y = Test.Score, fill = name), lwd = 0.3,fatten = 0.3, outlier.size = 0.1)+
+  coord_flip()+
+  xlab("Model")+
+  ylab("Test Score")+
+  labs(fill = "Subset")+
+  theme(legend.position = "bottom")
+
+ggsave(paste(output_directory, "Dist_remoteness+Full Boxplot.pdf", sep = ''),
+       width = 6,
+       height = 5,
+       units = "in",
+       dpi = 500,
+       plot = dist_remote_full)
+

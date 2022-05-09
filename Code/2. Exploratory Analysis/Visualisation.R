@@ -2,6 +2,8 @@ library(tidyverse)
 library(maps)
 
 data_path <- paste(dirname(dirname(getwd())), "\\Data\\Cleansed Data\\", sep = "")
+output_directory <- "C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/Visualisation/"
+
 
 fares <- read.csv(paste(data_path, "inscope_fares.csv", sep = "")) %>% select(-X)
 coordinates <- read.csv(paste(data_path, "station.csv", sep = "")) %>% select(NLC, lat, lon)
@@ -13,7 +15,7 @@ fare_station <- fares %>%
   inner_join(coordinates, by = c("ORIGIN_CODE" = "NLC")) %>%
   inner_join(coordinates, by = c("DESTINATION_CODE" = "NLC"), suffix = c(".origin", ".dest"))
 
-plot_routes <- function(fare_station_data){
+plot_routes <- function(fare_station_data, n_routes){
   fare_station_sample <- fare_station_data %>%
     sample_n(n_routes) %>%
     mutate(fnum = row_number())
@@ -33,8 +35,8 @@ plot_routes <- function(fare_station_data){
   
   ggplot()+
     geom_polygon(uk, mapping = aes(x =long, y = lat, group = group), fill = "lightgray")+
-    geom_point(line_pairs, mapping = aes(x=lon, y= lat, group = fnum), colour = "darkgrey")+
-    geom_line(line_pairs, mapping = aes(x=lon, y= lat, group = fnum, colour = FARE/100))+
+    geom_point(line_pairs, mapping = aes(x=lon, y= lat, group = fnum), colour = "darkgrey", size = 0.3)+
+    geom_line(line_pairs, mapping = aes(x=lon, y= lat, group = fnum, colour = FARE/100), size = 0.2)+
     scale_colour_viridis_c()+
     coord_map(xlim = c(-6.5, -1),ylim = c(55, 58.5)) +
     labs(x ="", y= "", colour = "Fare/£", title = cat(n_routes, " sample routes"))+
@@ -46,6 +48,16 @@ plot_routes <- function(fare_station_data){
           axis.ticks.y = element_blank()
           )
 }
+
+
+route_sample <- plot_routes(fare_station, 5000)
+
+ggsave(paste(output_directory, "Routes-5000.pdf", sep = ''),
+       width = 6,
+       height = 5,
+       units = "in",
+       dpi = 500,
+       plot = route_sample)
 
 
 ggplot(data_in)+

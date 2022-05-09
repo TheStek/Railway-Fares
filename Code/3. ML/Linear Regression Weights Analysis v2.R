@@ -11,7 +11,7 @@ singularities <- alias(model)
 
 
 data_without_difference <- data %>%
-  select(-contains("difference"))
+  select(-contains("difference"), -contains("employment"), -contains("drive_GP"), -contains("drive_retail"))
 
 model <- lm(FARE~., data_without_difference)
 summary(model)
@@ -96,10 +96,18 @@ ggplot(data = stats_mult %>%
          mutate(FeatureSet = ifelse(term %in% c("Stops", "Distance", "(Intercept)", "Time.min") 
                                     | grepl("Dist_from", term), "Non-SIMD", "SIMD"))
 )+
-  geom_boxplot(aes(x = reorder(term, abs(estimate)), middle = estimate, lower = conf.low, upper = conf.high, ymin = conf.low, ymax = conf.high, fill = FeatureSet), stat = 'identity')+
+  geom_boxplot(aes(x = reorder(term, abs(estimate)), middle = estimate, lower = conf.low, upper = conf.high, ymin = conf.low, ymax = conf.high, fill = FeatureSet), 
+               stat = 'identity',
+               lwd = 0.3,
+               fatten = 0.3)+
   coord_flip()+
   xlab("Feature")+
-  ylab("Linear Regression Weight")
+  ylab("Feature Importance")
+
+ggsave("C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/ML/Linear Regression Weights.pdf",
+       width = 6.5,
+       units = "in",
+       dpi = 300)
 
 ggplot(data = stats_mult %>%
          mutate(FeatureSet = ifelse(term %in% c("Stops", "Distance", "(Intercept)", "Time.min") 

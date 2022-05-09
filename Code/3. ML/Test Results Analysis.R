@@ -1,4 +1,8 @@
 library(tidyverse)
+library(ggplot2)
+library(gtable)
+library(grid)
+library(gridExtra)
 
 data <- read.csv("C:/Users/User/Documents/4. Fourth Year/Project/Railway-Fares/Code/3. ML/Test Results.csv")
 output_directory <- "C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/Testing/"
@@ -38,57 +42,6 @@ ggsave(paste(output_directory, "Test Results.pdf", sep = ''),
        plot = best_models)
 
 
-ggplot(data = data %>%
-         filter(Subset != "simd"))+
-  geom_boxplot(aes(x = Category, y = Test.Score, fill = Category))+
-  coord_flip()+
-  xlab("Subset Category")+
-  ylab("Test Score")
-
-
-ggplot(data = data %>%
-         filter(Subset != "simd"))+
-  geom_boxplot(aes(x = Method, y = Test.Score, fill = Category))+
-  coord_flip()+
-  xlab("Method - Subset Category")+
-  ylab("Test Score")
-
-
-
-ggplot(data = data %>%
-         filter(Subset != "simd", Subset != "dist", Subset != "dist_time"))+
-  geom_boxplot(aes(x = MethodCat2, y = Test.Score, fill = Category2))+
-  coord_flip()+
-  xlab("Method - Subset Category")+
-  ylab("Test Score")+
-  scale_fill_manual(values = c("#00BFC4", "#F8766D"))
-
-
-ggplot(data = data %>%
-         filter(Subset == "full" | Subset == "dist_remoteness"))+
-  geom_boxplot(aes(x = reorder(Method, Test.Score), y = Test.Score, fill = Category))+
-  coord_flip()+
-  xlab("Method - Subset Category")+
-  ylab("Test Score")
-
-
-data %>%
-  filter(Subset == "simd") %>%
-  group_by(Method) %>%
-  summarise(m = mean(Test.Score))
-
-
-ggplot(data = data %>%
-         filter(Subset == "full" | Subset == "dist_remoteness")) +
-  geom_boxplot(aes(x = reorder(name, Test.Score), y = Test.Score, fill = Category))+
-  coord_flip()+
-  
-  xlab("Subset")+
-  ylab("Test Score")+
-  theme(legend.position = "bottom",
-        text = element_text(size = 15))
-
-
 summarised_results <- data %>%
   group_by(Subset, Model, n) %>%
   summarise(mean_score = mean(Test.Score), std_score = sd(Test.Score)) %>%
@@ -126,3 +79,28 @@ ggsave(paste(output_directory, "Dist_remoteness+Full Boxplot.pdf", sep = ''),
        dpi = 500,
        plot = dist_remote_full)
 
+
+
+subset_boxplot <- ggplot(data = data)+
+  geom_boxplot(aes(x = reorder(name, Test.Score), y = Test.Score, fill = Category), lwd = 0.3,fatten = 0.3, outlier.size = 0.1)+
+  coord_flip() +
+  xlab("Subset")+
+  ylab("Test Score")+
+  theme(legend.position = "none")
+
+
+model_boxplot <- ggplot(data = data)+
+  geom_boxplot(aes(x = reorder(Model, Test.Score), y = Test.Score, fill = Category), lwd = 0.3,fatten = 0.3, outlier.size = 0.1)+
+  coord_flip() +
+  xlab("Model")+
+  ylab("Test Score")+
+  theme(legend.position = "bottom")
+
+model_subset_boxplots <- grid.arrange(rbind(ggplotGrob(subset_boxplot), ggplotGrob(model_boxplot)))
+
+ggsave(paste(output_directory, "Model+Subset Boxplots.pdf", sep = ''),
+       width = 6,
+       height =6,
+       units = "in",
+       dpi = 500,
+       plot = model_subset_boxplots)

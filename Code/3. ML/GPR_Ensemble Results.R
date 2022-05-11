@@ -28,14 +28,23 @@ gpr_stats <- gpr %>%
 
 
 
-ggplot(data = gpr %>%
+gpr_boxplot <- ggplot(data = gpr %>%
          filter(val_score > 0.7) %>%
          inner_join(subset_mapping, by = c("subset" = "code_name")) %>%
          mutate(desc = ifelse(grepl("pca", method), paste("PCA", name, sep = " - "), name))
        )+
-  geom_boxplot(aes(x = reorder(desc, val_score), y = val_score), color = "black", fill = "blue")+
+  geom_boxplot(aes(x = reorder(desc, val_score), y = val_score), color = "black", fill = "#00BFC4",
+               lwd = 0.3,
+               fatten = 0.3)+
   coord_flip()+
   xlab("Data Subset")+
   ylab("Validation Score")
 
+
+ggsave("C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/ML/GPR Boxplot.pdf",
+       width = 6,
+       height = 5,
+       units = "in",
+       dpi = 300,
+       plot = gpr_boxplot)
   

@@ -109,6 +109,11 @@ ggsave("C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/ML/Lin
        units = "in",
        dpi = 300)
 
+ggsave("C:/Users/User/Documents/4. Fourth Year/Project/Write Up Artifacts/ML/Linear Regression Weights.png",
+       width = 6.5,
+       units = "in",
+       dpi = 300)
+
 ggplot(data = stats_mult %>%
          mutate(FeatureSet = ifelse(term %in% c("Stops", "Distance", "(Intercept)", "Time.min") 
                                     | grepl("Dist_from", term), "Non-SIMD", "SIMD")))+
